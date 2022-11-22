@@ -33,30 +33,43 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Cotizaciones de proveedores',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Cuadros comparativos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Oferta comercial',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Certificación de proveedores',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Desarrollo sostenible',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        icono: 'far fa-file-alt',
+        numero: '6',
+        titulo: 'Buenas prácticas de selección de proveedores',
         desarrolloContenidos: true,
       },
     ],
@@ -102,16 +115,41 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Cotización',
+      referencia:
+        'Montes, J. (2022). <i>Cotización </i>. Economipedia: https://economipedia.com/definiciones/cotizacion.html',
+      tipo: 'Sitio web',
+      link: 'https://economipedia.com/definiciones/cotizacion.html',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Certificación de proveedores.',
+      referencia:
+        'González, Y. (2017) <i> Certificación gestión de eventos sociales empresariales </i> [video]. YouTube. https://www.youtube.com/watch?v=9CP4sPFzMdg',
+      tipo: 'Video',
+      descarga: 'https://www.youtube.com/watch?v=9CP4sPFzMdg',
+    },
+    {
+      tema: 'Desarrollo sostenible.',
+      referencia:
+        'Universidad Rey Juan Carlos. (2017). Guía de buenas prácticas para la realización de eventos sostenibles en la URJC. (Archivo PDF). https://www.urjc.es/images/EstudiarURJC/vida_universitaria/compromiso_social/sostenibilidad/guia-de-buenas-practicas-para-la-realizacion-de-eventos-sostenibles-en-la-urjc.pdf',
+      tipo: 'Video',
+      descarga: 'https://www.youtube.com/watch?v=RstFV_n6wRg',
+    },
+    {
+      tema: 'Desarrollo sostenible.',
+      referencia:
+        'Universidad Rey Juan Carlos. (2017). <i> Guía de buenas prácticas para la realización de eventos sostenibles en la URJC. </i> (Archivo PDF). https://www.urjc.es/images/EstudiarURJC/vida_universitaria/compromiso_social/sostenibilidad/guia-de-buenas-practicas-para-la-realizacion-de-eventos-sostenibles-en-la-urjc.pdf',
+      tipo: 'PDF',
+      descarga:
+        'https://www.urjc.es/images/EstudiarURJC/vida_universitaria/compromiso_social/sostenibilidad/guia-de-buenas-practicas-para-la-realizacion-de-eventos-sostenibles-en-la-urjc.pdf',
+    },
+    {
+      tema: 'Buenas prácticas en la selección de proveedores.',
+      referencia:
+        'AERCE. Agencia de Eventos Españoles Asociadas AEVEA. (2018). <i> Guía técnica de buenas prácticas en la compra de servicios de eventos. </i> (Archivo PDF). https://aevea.es/add/modelos-de-trabajo/Guia-Buenas-Practicas-Compras-de-Eventos-2018.pdf',
+      tipo: 'PDF',
+      descarga:
+        'https://aevea.es/add/modelos-de-trabajo/Guia-Buenas-Practicas-Compras-de-Eventos-2018.pdf',
     },
   ],
   glosario: [
