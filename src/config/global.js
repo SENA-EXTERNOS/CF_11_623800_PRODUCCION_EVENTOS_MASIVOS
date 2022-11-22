@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Condiciones comerciales de proveedores',
+    descripcionCurso:
+      'Los acuerdos con proveedores comerciales se realizan en toda empresa al momento de comprar cualquier bien o servicio, para lo cual se requieren los conocimientos en elaboración de cotizaciones, diseño de estructura de un cuadro comparativo, presentación de oferta comercial, modelos de certificación de proveedores, desarrollo sostenible y buenas prácticas, lo que permite establecer sinergia entre las partes.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
