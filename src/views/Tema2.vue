@@ -44,6 +44,30 @@
           .col-md-4
             figure
               img(src='@/assets/curso/temas/t2/img-6.png', alt='img6')
+    .row.justify-content-center.mt-2
+      .col-7
+        p De acuerdo con los ejemplos anteriores, se concluye que este tipo de herramientas permite sintetizar la información recolectada sobre la marcha, por lo que puede considerarse una de las principales ventajas de los recursos visuales.  Igualmente, permite agrupar uno o más textos en un marco, siendo útil para estudiar antes de un examen, exposición o presentación, así como para presentar partes de un trabajo académico, como una tesis, monografía, disertación e informes comerciales, pues permite el análisis global sintetizando las características de los datos.
+      .col-5.mb-3
+        img(src="@/assets/curso/temas/t2/img-7.png")
+    p.mt-2 Presentación de las ventajas y desventajas de los cuadros comparativos:
+    .row.justify-content-center.mt-2
+      .col-4
+        img(src="@/assets/curso/temas/t2/img-8.png")
+      .col-6
+        TabsA.color-acento-contenido.mb-5
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="Ventajas")
+            h4 Ventajas
+            p This is a normal paragraph (<code>p</code> element). To add some length to it, let us mention that this page was primarily written for testing the effect of 
+              strong user style sheets
+              |. You can use it for various other purposes as well, like just checking how your browser displays various HTML elements by default. It can also be useful when testing conversions from HTML format to other formats, since some elements can go wrong then.
+            p This is another paragra
+          .tarjeta.color-acento-contenido--borde.p-4(titulo="Desventajas")
+            h4 Desventajas
+            p This is a normal paragraph (<code>p</code> element). To add some length to it, let us mention that this page was primarily written for testing the effect of 
+              strong user style sheets
+              |. You can use it for various other purposes as well, like just checking how your browser displays various HTML elements by default. It can also be useful when testing conversions from HTML format to other formats, since some elements can go wrong then.
+            p This is another paragra
+
       
 
 
