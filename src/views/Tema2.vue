@@ -67,9 +67,13 @@
       .col-12
         .cajon-b.color-acento-contenido.p-3.mb-0
           p.mb-0 Es importante destacar que el cuadro comparativo no solo se utiliza para contrastar grupos de datos, sino también fenómenos, recibiendo así la información una vez realizada la comparación. Los datos obtenidos mediante el uso de un cuadro comparativo pueden ser de naturaleza cualitativa o cuantitativa, según el caso, siendo una herramienta ideal para examinar dos o más objetos de forma visual. Suele utilizarse en la investigación para evaluar varios modelos, descartar los menos viables y ofrecer una imagen relativamente detallada de las posibilidades. A continuación, se observan los tipos básicos de cuadros comparativos:
-    .row.justify-content-center.mt-2
-      .col-6
-        img(src="@/assets/curso/temas/t2/img-9.svg")
+    .row.justify-content-center.mt-5
+      .col-10
+        img(src="@/assets/curso/temas/t2/img_9.png")
+    .row.justify-content-center.mt-5
+      .col-lg-8
+        .cajon.color-acento-contenido.p-4.mb-4
+          p Consiste en información descriptiva, es decir, en estos la información no se puede presentar de manera numérica. En algunos casos, suele componerse de contenidos subjetivos, como las opiniones y experiencias de dos autores pioneros del arte contemporáneo. 
 
 
 
