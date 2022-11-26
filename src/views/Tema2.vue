@@ -10,15 +10,11 @@
       .col-4
         img(src="@/assets/curso/temas/t2/img-3.png")
       .col-8
-        .cajon-b.color-primario.p-3.mb-5
-          
+        .cajon-b.color-primario.p-3.mb-0
           p.mb-0 Una vez se cuenta con varias cotizaciones (lo ideal es contar con mínimo 3 en cada proceso), se debe analizar la opción más acertada a través de un cuadro comparativo. Como su nombre lo indica, estos cuadros ofrecen una representación visual de varias opciones que pueden compararse entre sí. Puede tener pros, contras y características claves que describan las diferencias vitales entre varias opciones.
-            br
-            br
-            | Dado que no hay una regla general con los gráficos de comparación, estos pueden representar características tanto cuantitativas como cualitativas. En general, son fáciles de hacer y pueden ayudar en la toma de decisiones basadas en datos. 
-            br
-            br
-            | Los cuadros comparativos sirven para organizar la información, facilitando la identificación de características similares y diferentes en los conceptos. Por eso son útiles en la adquisición de conocimientos y la memorización de contenidos.
+          | Dado que no hay una regla general con los gráficos de comparación, estos pueden representar características tanto cuantitativas como cualitativas. En general, son fáciles de hacer y pueden ayudar en la toma de decisiones basadas en datos. 
+        .cajon-b.color-secundario.p-3.mb-5
+          p.mb-0 Los cuadros comparativos sirven para organizar la información, facilitando la identificación de características similares y diferentes en los conceptos. Por eso son útiles en la adquisición de conocimientos y la memorización de contenidos.
     p Observar los siguientes ejemplos:
     .tarjeta.color-primario.p-4.mb-5
       SlyderA(tipo="b")
@@ -55,18 +51,28 @@
         img(src="@/assets/curso/temas/t2/img-8.png")
       .col-6
         TabsA.color-acento-contenido.mb-5
-          .tarjeta.color-acento-contenido--borde.p-4(titulo="Ventajas")
+          .tarjeta.color-acento-primario--borde.p-4(titulo="Ventajas")
             h4 Ventajas
             p This is a normal paragraph (<code>p</code> element). To add some length to it, let us mention that this page was primarily written for testing the effect of 
               strong user style sheets
               |. You can use it for various other purposes as well, like just checking how your browser displays various HTML elements by default. It can also be useful when testing conversions from HTML format to other formats, since some elements can go wrong then.
             p This is another paragra
-          .tarjeta.color-acento-contenido--borde.p-4(titulo="Desventajas")
+          .tarjeta.color-acento-primario--borde.p-4(titulo="Desventajas")
             h4 Desventajas
             p This is a normal paragraph (<code>p</code> element). To add some length to it, let us mention that this page was primarily written for testing the effect of 
               strong user style sheets
               |. You can use it for various other purposes as well, like just checking how your browser displays various HTML elements by default. It can also be useful when testing conversions from HTML format to other formats, since some elements can go wrong then.
             p This is another paragra
+    .row.justify-content-center.mt-2
+      .col-12
+        .cajon-b.color-acento-contenido.p-3.mb-0
+          p.mb-0 Es importante destacar que el cuadro comparativo no solo se utiliza para contrastar grupos de datos, sino también fenómenos, recibiendo así la información una vez realizada la comparación. Los datos obtenidos mediante el uso de un cuadro comparativo pueden ser de naturaleza cualitativa o cuantitativa, según el caso, siendo una herramienta ideal para examinar dos o más objetos de forma visual. Suele utilizarse en la investigación para evaluar varios modelos, descartar los menos viables y ofrecer una imagen relativamente detallada de las posibilidades. A continuación, se observan los tipos básicos de cuadros comparativos:
+    .row.justify-content-center.mt-2
+      .col-6
+        img(src="@/assets/curso/temas/t2/img-9.svg")
+
+
+
 
       
 
