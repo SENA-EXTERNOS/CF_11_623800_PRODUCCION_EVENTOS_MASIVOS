@@ -118,15 +118,21 @@
               img(src='@/assets/curso/temas/t2/img-15.png', alt='img-15')
         h2.text-center Escribir una conclusión:
         p Es importante que al completar la tabla de comparación se obtengan conclusiones apropiadas para las unidades que se comparan.
+    .row.justify-content-center.mt-5
+      .col-7
+        .cajon.color-acento-contenido.p-3.mb-0
+          p <b>Cuadro comparativo sencillo de las ventajas y desventajas de los eventos masivos.</b>
+    .row.justify-content-center.mt-5
+      .col-10
+        img(src='@/assets/curso/temas/t2/img-16.png', alt='img-16')
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mt-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/t2/img-17.png')})`}")
+      .bloque-texto-g__texto.p-4
+        p.mb-0 Al tomar una decisión sobre cuál proveedor, cotización, producto o servicio se desea adquirir para un evento, se recomienda elaborar un cuadro comparativo donde se analicen los aspectos más relevantes y significativos, basado en esto, se podrá tomar la decisión más acertada. 
+          
+
       
-  
-    
-
-
-
-
-      
-
 
 </template>
 
