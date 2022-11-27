@@ -16,7 +16,7 @@
         .cajon-b.color-secundario.p-3.mb-5
           p.mb-0 Los cuadros comparativos sirven para organizar la información, facilitando la identificación de características similares y diferentes en los conceptos. Por eso son útiles en la adquisición de conocimientos y la memorización de contenidos.
     p Observar los siguientes ejemplos:
-    .tarjeta.color-primario.p-4.mb-5
+    .tarjeta.color-adicional-3.p-4.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center
           .col-md-5.mb-0.mb-md-0
@@ -74,6 +74,53 @@
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
           p Consiste en información descriptiva, es decir, en estos la información no se puede presentar de manera numérica. En algunos casos, suele componerse de contenidos subjetivos, como las opiniones y experiencias de dos autores pioneros del arte contemporáneo. 
+    .row.justify-content-center.mt-5
+      .col-10
+        img(src="@/assets/curso/temas/t2/img-10.png")
+    .row.justify-content-center.mt-5
+      .col-7
+        p Este cuadro contiene variables medibles sistemáticas, con el fin de comprender patrones y frecuencias. Se diseña con información objetiva, utilizando datos estadísticos, como el número de personas en un país, los resultados de encuestas y sondeos, permitiendo así que los datos sean comparados y analizados.
+        .cajon.color-acento-contenido.p-3.mb-0
+          p Ya se ha mencionado el concepto, utilidad, ventajas y desventajas de esta herramienta, ahora es momento de conocer los aspectos que se deben tener en cuenta al momento de elaborar un cuadro comparativo. Al realizar una tabla o gráfico de este tipo, es importante tener una idea clara de lo que se desea plasmar o identificar, ya que esto permite reconocer las variables y su correcta organización para optimizar todo el proceso.
+      .col-5
+        img(src="@/assets/curso/temas/t2/img-11.png")
+    p.mt-3 Aspectos para tener en cuenta en su elaboración.
+    .row.justify-content-center.mt-5
+      .col-12
+        img(src="@/assets/curso/temas/t2/img-12.png")
+    .tarjeta--container.row.mb-5
+      .col-md.tarjeta.color-primario.p-5
+        .row.justify-content-center.mb-4
+          .col-8
+            figure
+              img(src='@/assets/curso/temas/t2/img-13.png', alt='img-13')
+        h2.text-center Especificar los elementos a comparar:
+        p Identificar los datos que serán estudiados, analizar sus similitudes, diferencias y ventajas.
+        p Antes de crear una tabla de comparación, es necesario tener presente que esta debe ser clara respecto a las características de cada producto, bien o servicio, y los parámetros que se desea comparar.
+      .col-md.tarjeta.color-acento-contenido.p-5
+        .row.justify-content-center.mb-4
+          .col-8
+            figure
+              img(src='@/assets/curso/temas/t2/img-14.png', alt='img-14')
+        h2.text-center Crear un diseño útil:
+        p Al momento de preparar el cuadro se inicia con la creación de una tabla o cuadrícula con el número requerido de columnas y filas, según los elementos o variables que se deseen comparar. Se añade un diseño atractivo y profesional. 
+      .col-md.tarjeta.color-acento-botones.text-white.p-5
+        .row.justify-content-center.mb-4
+          .col-8
+            figure
+              img(src='@/assets/curso/temas/t2/img-15.png', alt='img-15')
+        h2.text-center Diligenciar el cuadro:
+        p Con el diseño listo, se procede a llenar la tabla con los datos de la información suministrada. Se recomienda ser breve, específico y claro.
+      .col-md.tarjeta.color-secundario.text-white.p-5
+        .row.justify-content-center.mb-4
+          .col-8
+            figure
+              img(src='@/assets/curso/temas/t2/img-15.png', alt='img-15')
+        h2.text-center Escribir una conclusión:
+        p Es importante que al completar la tabla de comparación se obtengan conclusiones apropiadas para las unidades que se comparan.
+      
+  
+    
 
 
 
