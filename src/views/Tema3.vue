@@ -80,7 +80,21 @@
                 img(src='@/assets/curso/temas/t3/img-8.png', alt='img8')
               .col-8
                 p Mostrar al cliente que tiene diferentes opciones para cerrar el trato con la empresa puede ser atractivo, y este se sentirá libre de elegir la que más le convenga. Este tipo de tácticas puede ayudar a ofrecer productos y servicios de diferentes gamas, demostrando así la capacidad de cubrir cualquier escenario.
-
+    .row.justify-content-center
+      .col-lg-8
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/t3/img-9.png' alt='img-9')
+          .tarjeta.color-a
+            .p-4
+              p.mb-5 Una vez claros los detalles y elementos a tener en cuenta en la elaboración de una propuesta comercial, se genera el cuestionamiento sobre cuáles son las ventajas y desventajas de tener una solicitud de oferta.
+    .row.justify-content-center
+      .col-lg-6
+        .cajon-b.contenido.p-3.mb-5
+          p.mb-0 Dentro de las ventajas se encuentra que la empresa que adquiere los suministros conocerá la procedencia de la mercancía y a quien se le entrega, por lo que siempre existirá una alta posibilidad sobre la respuesta para las peticiones de una oferta; el número de ofertas recibidas se limita al porcentaje de estas solicitadas a los licitadores, por lo que el tiempo del proceso de selección se reduce considerablemente, al igual que el tiempo del proceso de contratación, ya que no es necesario preparar las condiciones ni anunciar los requisitos, minimizando así el plazo de presentación de las ofertas.
+      .col-lg-6
+        .cajon-b.color-secundario2.p-3.mb-5
+          p.mb-0 Dentro de las desventajas se encuentra el hecho de que la entidad contratante decida a qué proveedores o prestadores de servicios enviar la solicitud de presupuesto, esta acción puede dar lugar a irregularidades, al igual que la competencia entre los proveedores sea limitada, reduciendo así las opciones. Por otra parte, se podría abusar del proceso de petición de oferta como resultado de la división de los requisitos en tamaños más pequeños, solo para aplicar este método de contratación.
 
 </template>
 
