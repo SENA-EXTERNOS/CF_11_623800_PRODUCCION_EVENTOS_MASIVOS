@@ -219,7 +219,34 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Libro Fidalgo, E. & Ventura, J. (2018). <i> Fundamentos de administración de empresas </i>. Ediciones Pirámide.',
+      link: '',
+    },
+    {
+      referencia:
+        'Artículo ONU. (2017). ONU <i> Medio ambiente, abogando el consumo y la producción sostenible.</i> Organización de las Naciones Unidas.',
+      link: '',
+    },
+    {
+      referencia:
+        'Sitio web Real academia española: <i> Diccionario de la lengua española, </i> 23.ª ed., [versión 23.5 en línea]. [9 septiembre 2022]. ',
+      link: 'https://dle.rae.es',
+    },
+    {
+      referencia:
+        'Libro Servicio Nacional de Aprendizaje. Repositorio institucional.',
+      link: 'https://repositorio.sena.edu.co/discover',
+    },
+    {
+      referencia:
+        'PDF Superintendencia de Industria y Comercio (SIC). (2022). <i> Manual Buenas prácticas en la contratación de bienes y servicios. </i> Artículo PDF',
+      link:
+        '. https://www.sic.gov.co/sites/default/files/files/Proteccion_Competencia/Buenas-practicas-para-la-contratacion-bienes-y-servicios.pdf',
+    },
+    {
+      referencia:
+        'Libro Williamson, D. (2018).<i> Macroeconomía.</i> Pearson Education. Global Edition.',
       link: '',
     },
   ],
