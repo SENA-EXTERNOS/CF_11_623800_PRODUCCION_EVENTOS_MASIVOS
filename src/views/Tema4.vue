@@ -91,9 +91,8 @@
                       span Descargar
                       i.fas.fa-file-download
 
-  
     
-  </template>
+</template>
 
 <script>
 export default {
