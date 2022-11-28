@@ -87,7 +87,7 @@
                     h3.mb-1 PDF - Anexo 2
                     p.text-small Check list de evaluación para proveedores
                   .col-sm-auto
-                    a.boton.color-adicional-2.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-adicional-2.texto-blanco(:href="obtenerLink('downloads/ANEXO 2_ CHECK LIST DE EVALUACION PARA PROVEEDORES.docx')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
 

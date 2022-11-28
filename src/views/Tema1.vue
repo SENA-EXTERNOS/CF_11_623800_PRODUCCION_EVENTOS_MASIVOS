@@ -89,7 +89,7 @@
                     h3.mb-1 PDF - Anexo 1
                     p.text-small Modelo Cotización Simple
                   .col-sm-auto
-                    a.boton.color-adicional-2.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-adicional-2.texto-blanco(:href="obtenerLink('downloads/Anexo 1_ Modelo Cotización Simple.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
     p Dentro de dicha información se encuentra:

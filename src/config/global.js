@@ -162,12 +162,59 @@ export default {
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Acciones de mejora',
+      significado:
+        'acción que proponga una mejora en los procedimientos, con el objetivo de ayudar en la eficiencia de cualquier actividad que optimice la gestión de la calidad.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Buena práctica',
+      significado:
+        'norma o conjunto de directrices que se sabe que producen buenos resultados si se siguen',
+    },
+    {
+      termino: 'Cotización',
+      significado:
+        'documento elaborado por un proveedor potencial en el que se especifica el costo de los bienes o servicios que este proporcionará en un periodo determinado',
+    },
+    {
+      termino: 'Comunicación',
+      significado:
+        'acción consciente en la que intercambian información dos o más personas, con el fin de transmitir o recibir información.  ',
+    },
+    {
+      termino: 'Desarrollo sostenible',
+      significado:
+        'desarrollo que satisface las necesidades actuales de las personas sin comprometer la capacidad de las futuras  generaciones para satisfacer las suyas',
+    },
+    {
+      termino: 'Proveedor',
+      significado:
+        'persona, empresa u organización que vende o suministra algo, como bienes y equipos, a los clientes.',
+    },
+    {
+      termino: 'Posventa',
+      significado:
+        'es la parte del servicio al cliente que reúne todas las estrategias pensadas para mejorar la experiencia después de la compra, generando una relación duradera con los clientes.',
+    },
+    {
+      termino: 'Servicio posventa',
+      significado:
+        'técnicas y estrategias para conservar la relación empresa - cliente, buscando que esta perdure a través del tiempo',
+    },
+    {
+      termino: 'Solicitud',
+      significado:
+        'es cualquier requerimiento que llega a la empresa de manera formal.',
+    },
+    {
+      termino: 'Sostenible:',
+      significado:
+        'sistemas biológicos que se mantienen productivos con el transcurso del tiempo, se refiere al equilibrio de una especie.',
+    },
+    {
+      termino: 'Buena práctica',
+      significado:
+        'norma o conjunto de directrices que se sabe que producen buenos resultados si se siguen',
     },
   ],
   referencias: [
