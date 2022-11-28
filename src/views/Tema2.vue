@@ -53,16 +53,49 @@
         TabsA.color-acento-contenido.mb-5
           .tarjeta.color-acento-primario--borde.p-4(titulo="Ventajas")
             h4 Ventajas
-            p This is a normal paragraph (<code>p</code> element). To add some length to it, let us mention that this page was primarily written for testing the effect of 
-              strong user style sheets
-              |. You can use it for various other purposes as well, like just checking how your browser displays various HTML elements by default. It can also be useful when testing conversions from HTML format to other formats, since some elements can go wrong then.
-            p This is another paragra
+            .row.mt-5
+              .col-12
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-check
+                    | La mayoría, son sencillos de construir e interpretar.
+                  li 
+                    i.fas.fa-check
+                    | Las estimaciones son rápidas y fáciles de entender.
+                  li
+                  li 
+                    i.fas.fa-check
+                    | Son accesibles para una amplia gama de público.
+                  li
+                  li 
+                    i.fas.fa-check
+                    | Permiten a los espectadores obtener la comparación de datos en una primera apreciación.
+                  li
+                  li 
+                    i.fas.fa-check
+                    | Ayudan a resumir una gran cantidad de datos.
+                  li 
+
           .tarjeta.color-acento-primario--borde.p-4(titulo="Desventajas")
             h4 Desventajas
-            p This is a normal paragraph (<code>p</code> element). To add some length to it, let us mention that this page was primarily written for testing the effect of 
-              strong user style sheets
-              |. You can use it for various other purposes as well, like just checking how your browser displays various HTML elements by default. It can also be useful when testing conversions from HTML format to other formats, since some elements can go wrong then.
-            p This is another paragra
+            .row.mt-5
+              .col-12
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-check
+                    | Pueden llegar a ser largos y pesados de leer.
+                  li 
+                    i.fas.fa-check
+                    | Con un mal diseño, se vuelven complicados e incomprensibles.
+                  li
+                  li 
+                    i.fas.fa-check
+                    | Todos los gráficos de comparación no ofrecen una perspectiva visual de los datos.
+                  li
+                  li 
+                    i.fas.fa-check
+                    | Los datos en los cuadros de comparación pueden manipularse fácilmente.
+                  li            
     .row.justify-content-center.mt-2
       .col-12
         .cajon-b.color-acento-contenido.p-3.mb-0
