@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Titulo de primer nivel
+      h1 Buenas prácticas de selección de proveedores
     
     </template>
 

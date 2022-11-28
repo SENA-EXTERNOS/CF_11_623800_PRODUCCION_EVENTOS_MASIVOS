@@ -36,9 +36,61 @@
       .tarjeta.color-acento-botones1.p-3(x="86%" y="65%" numero="8")
         p Ayudar a la organización para servir mejor a sus clientes.
     .row
+      .col-12
+        .cajon-b.color-secundario3.p-3.mb-3
+          p.mb-0 Este proceso es importante para lograr una sólida relación entre empresa y proveedor. Aunque pueda parecer que es la empresa la mayor beneficiada, a continuación, se pueden observar algunas de las ventajas que ofrece para las dos partes.
+    .row.justify-content-center.mt-2
+      .col-7
+        .cajon.color-primario.p-3.mb-0
+          p Dentro de los beneficios que aporta la implementación del proceso, se encuentran:
+    .row.justify-content-center.mt-5
+      .col-5
+        img(src="@/assets/curso/temas/t4/img-3.png")
+      .col-3
+        img(src="@/assets/curso/temas/t4/img-4.png")
+    .row.justify-content-center.mt-5
+      .col-6
+        img(src="@/assets/curso/temas/t4/img-5.png")
+      .col-5
+        p La mayoría de estos beneficios se pueden conseguir estableciendo objetivos mutuos en las áreas de control de calidad total y control estadístico del Proceso SPC, contando con menos reprocesos, desechos, errores de especificación, dibujo, recepción y facturación. Con este también se puede disminuir el coste total del producto.
+        p.color.p-4 Con la garantía de cero defectos se reducen los inventarios, el stock de seguridad, y se puede eliminar la inspección, logrando tamaños de lotes más pequeños y entregas con mayor frecuencia, además de una configuración reducida y un papeleo administrativo racionalizado.
+    .row.justify-content-center.mt-2
+      p.text-center Actividades necesarias para implementar una certificación de proveedores:
+    .row.justify-content-center.mt-5
+      .col-10
+        img(src="@/assets/curso/temas/t4/img-6.png")
+    .row.justify-content-center.mt-5
       .col-4
-        .cajon-b.color-secundario1.p-3.mb-5
-          p.mb-0 La oferta o propuesta comercial
+        p Estas actividades se encuentran sujetas a las siguientes condiciones: todos los proveedores con los que se firma un contrato deben estar registrados en la base de datos de proveedores en la empresa, cumpliendo con los requisitos comerciales y legales de los documentos solicitados. 
+        img(src="@/assets/curso/temas/t4/img-7.png")
+      .col-4
+        p Existen principalmente tres tipos de certificación:
+        p La ISO 9000, que se presenta como el programa de certificación de calidad de la Organización Internacional de Normalización, la cual se centra también en la parte documentada.
+        p Equivalentes industriales como la ISO 14000, que se utiliza en la industria automotriz.
+        p Certificaciones diseñadas por la propia empresa.
+      .col-4
+        img(src="@/assets/curso/temas/t4/img-8.png")
+    .row.justify-content-center.mt-5
+      .col-8
+        .cajon-b.color-secundario4.p-3.mb-3
+          p.mb-0 Descargar el <b>Anexo: 2_CHECK LIST DE EVALUACIÓN PARA PROVEEDORES</b>, esta lista de comprobación se diligencia cada vez que se realiza una evaluación inicial del proveedor, o si se evalúa de nuevo a un proveedor bloqueado para su aprobación.
+    
+    .row.mt-5.justify-content-center
+      .col-8
+        .tarjeta.color-primario.p-3.mb-5
+            .row.justify-content-around.align-items-center
+              .col-4.col-sm-4.col-lg-2
+                img(src="@/assets/curso/temas/t1/img-13.png")
+              .col
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    h3.mb-1 PDF - Anexo 2
+                    p.text-small Check list de evaluación para proveedores
+                  .col-sm-auto
+                    a.boton.color-adicional-2.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                      span Descargar
+                      i.fas.fa-file-download
+
   
     
   </template>
