@@ -21,11 +21,11 @@
           .col-8
             img(src='@/assets/curso/temas/t1/img-2.png' alt='img2')
           p.text-center.flex-nowrap Lista detallada de los bienes y/o servicios solicitados por el cliente o consumidor.
-      .tarjeta.color-adicional-1.p-4.flex-nowrap
+      .tarjeta.color-adicional-1.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/t1/img-3.png' alt='img3')
-          p.text-center.flex-nowrap Referencia para identificar cada tipo de producto o servicio.                       
+          p.text-center Referencia para identificar cada tipo de producto o servicio.                       
       .tarjeta.color-adicional-1.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -35,7 +35,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/t1/img-5.png' alt='img5')
-        p.text-center Precios de cada artículo, incluidos los costos de mano de obra, impuestos, descuentos y valor total.
+            p.text-center Precios de cada artículo, incluidos los costos de mano de obra, impuestos, descuentos y valor total.
       .tarjeta.color-adicional-1.p-4
         .row.justify-content-center.mb-3
           .col-8

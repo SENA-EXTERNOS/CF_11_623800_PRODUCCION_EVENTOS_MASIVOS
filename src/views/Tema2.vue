@@ -28,7 +28,7 @@
             p Sistema de gobierno: República presidencial / República Federal / Democrática representativa, republicana y federal.
           .col-md-5
             figure
-              img(src='@/assets/curso/temas/t2/img-5.png', alt='img5')
+              img(src='@/assets/curso/temas/t2/img_5.png', alt='img5')
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             h4 Ejemplo 2:
@@ -39,7 +39,7 @@
             p Tiene piscina / No tiene piscina.
           .col-md-4
             figure
-              img(src='@/assets/curso/temas/t2/img-6.png', alt='img6')
+              img(src='@/assets/curso/temas/t2/img_6.png', alt='img6')
     .row.justify-content-center.mt-2
       .col-7
         p De acuerdo con los ejemplos anteriores, se concluye que este tipo de herramientas permite sintetizar la información recolectada sobre la marcha, por lo que puede considerarse una de las principales ventajas de los recursos visuales.  Igualmente, permite agrupar uno o más textos en un marco, siendo útil para estudiar antes de un examen, exposición o presentación, así como para presentar partes de un trabajo académico, como una tesis, monografía, disertación e informes comerciales, pues permite el análisis global sintetizando las características de los datos.
