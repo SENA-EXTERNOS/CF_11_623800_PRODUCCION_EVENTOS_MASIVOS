@@ -152,7 +152,7 @@
         h2.text-center Escribir una conclusión:
         p Es importante que al completar la tabla de comparación se obtengan conclusiones apropiadas para las unidades que se comparan.
     .row.justify-content-center.mt-5
-      .col-7
+      .col-6
         .cajon.color-acento-contenido.p-3.mb-0
           p <b>Cuadro comparativo sencillo de las ventajas y desventajas de los eventos masivos.</b>
     .row.justify-content-center.mt-5

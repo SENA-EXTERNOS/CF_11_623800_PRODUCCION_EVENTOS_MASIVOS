@@ -81,13 +81,13 @@
               .col-8
                 p Mostrar al cliente que tiene diferentes opciones para cerrar el trato con la empresa puede ser atractivo, y este se sentirá libre de elegir la que más le convenga. Este tipo de tácticas puede ayudar a ofrecer productos y servicios de diferentes gamas, demostrando así la capacidad de cubrir cualquier escenario.
     .row.justify-content-center
-      .col-lg-8
+      .col-lg-7
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/t3/img-9.png' alt='img-9')
           .tarjeta.color-a
             .p-4
-              p.mb-5 Una vez claros los detalles y elementos a tener en cuenta en la elaboración de una propuesta comercial, se genera el cuestionamiento sobre cuáles son las ventajas y desventajas de tener una solicitud de oferta.
+              p.mb-3 Una vez claros los detalles y elementos a tener en cuenta en la elaboración de una propuesta comercial, se genera el cuestionamiento sobre cuáles son las ventajas y desventajas de tener una solicitud de oferta.
     .row.justify-content-center
       .col-lg-6
         .cajon-b.contenido.p-3.mb-5

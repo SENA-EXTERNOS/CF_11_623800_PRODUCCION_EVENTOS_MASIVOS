@@ -49,9 +49,9 @@
       .col-3
         img(src="@/assets/curso/temas/t4/img-4.png")
     .row.justify-content-center.mt-5
-      .col-6
-        img(src="@/assets/curso/temas/t4/img-5.png")
       .col-5
+        img(src="@/assets/curso/temas/t4/img-5.png")
+      .col-6
         p La mayoría de estos beneficios se pueden conseguir estableciendo objetivos mutuos en las áreas de control de calidad total y control estadístico del Proceso SPC, contando con menos reprocesos, desechos, errores de especificación, dibujo, recepción y facturación. Con este también se puede disminuir el coste total del producto.
         p.color.p-4 Con la garantía de cero defectos se reducen los inventarios, el stock de seguridad, y se puede eliminar la inspección, logrando tamaños de lotes más pequeños y entregas con mayor frecuencia, además de una configuración reducida y un papeleo administrativo racionalizado.
     .row.justify-content-center.mt-2
@@ -60,15 +60,25 @@
       .col-10
         img(src="@/assets/curso/temas/t4/img-6.png")
     .row.justify-content-center.mt-5
-      .col-4
+      .col-3
         p Estas actividades se encuentran sujetas a las siguientes condiciones: todos los proveedores con los que se firma un contrato deben estar registrados en la base de datos de proveedores en la empresa, cumpliendo con los requisitos comerciales y legales de los documentos solicitados. 
         img(src="@/assets/curso/temas/t4/img-7.png")
       .col-4
         p Existen principalmente tres tipos de certificación:
-        p La ISO 9000, que se presenta como el programa de certificación de calidad de la Organización Internacional de Normalización, la cual se centra también en la parte documentada.
-        p Equivalentes industriales como la ISO 14000, que se utiliza en la industria automotriz.
-        p Certificaciones diseñadas por la propia empresa.
-      .col-4
+        ul.lista-ul--color
+          li 
+            i.fas.fa-check
+            | La ISO 9000, que se presenta como el programa de certificación de calidad de la Organización Internacional de Normalización, la cual se centra también en la parte documentada.
+          li
+          li 
+            i.fas.fa-check
+            | Equivalentes industriales como la ISO 14000, que se utiliza en la industria automotriz.
+          li
+          li 
+            i.fas.fa-check
+            | Certificaciones diseñadas por la propia empresa.
+          li
+      .col-3
         img(src="@/assets/curso/temas/t4/img-8.png")
     .row.justify-content-center.mt-5
       .col-8
