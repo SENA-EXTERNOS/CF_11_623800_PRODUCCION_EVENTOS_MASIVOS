@@ -17,8 +17,7 @@
     ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/t4/img_2.png/', alt='img-2')
-          figcaption Leyenda de la imagen
+          img(src='@/assets/curso/temas/t4/img_2.png', alt='img-2')
       .tarjeta.color-acento-botones1.p-3(x="14%" y="65%" numero="1")
         p Permitir la identificación a los proveedores que pueden cumplir los requisitos de la empresa.
       .tarjeta.color-acento-botones1.p-3(x="18%" y="47%" numero="2")

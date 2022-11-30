@@ -119,7 +119,7 @@
         img(src="@/assets/curso/temas/t2/img-11.png")
     p.mt-3 Aspectos para tener en cuenta en su elaboración.
     .row.justify-content-center.mt-5
-      .col-12
+      .col-10
         img(src="@/assets/curso/temas/t2/img-12.png")
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-primario.p-5
@@ -148,7 +148,7 @@
         .row.justify-content-center.mb-4
           .col-8
             figure
-              img(src='@/assets/curso/temas/t2/img-15.png', alt='img-15')
+              img(src='@/assets/curso/temas/t2/img_15.png', alt='img-15')
         h2.text-center Escribir una conclusión:
         p Es importante que al completar la tabla de comparación se obtengan conclusiones apropiadas para las unidades que se comparan.
     .row.justify-content-center.mt-5
