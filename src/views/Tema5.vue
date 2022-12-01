@@ -49,13 +49,14 @@
             figure
               img(src='@/assets/curso/temas/t5/img-6.png', alt='img6')
     .row.justify-content-center
-      .col-lg-8
+      .col-lg-8.col-sm-12
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/t5/img-7.png' alt='img-7')
           .tarjeta.color-a
             .p-3
               p.mb-5 Cuando se esté en la búsqueda de los proveedores de productos y servicios que requiera para la organización de eventos, se debe tener en cuenta el criterio de la sostenibilidad, prefiriendo a aquellos pequeños y medianos empresarios que con sus organizaciones dan trabajo a las comunidades locales y menos favorecidas, aquellos que cuenten con iniciativas puntuales de aporte social y ecológico, buscando así productos que sean amigables con el medio ambiente y alimentos orgánicos. Son muchas las alternativas que existen hoy en día en pro de crear experiencias significativas en este sentido. 
+
 </template>
 
 <script>

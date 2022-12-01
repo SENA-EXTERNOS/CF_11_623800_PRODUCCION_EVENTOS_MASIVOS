@@ -43,7 +43,7 @@
         .cajon.color-primario.p-3.mb-0
           p Dentro de los beneficios que aporta la implementación del proceso, se encuentran:
     .row.justify-content-center.mt-5
-      .col-5
+      .col-5.col-sm-7
         img(src="@/assets/curso/temas/t4/img-3.png")
       .col-3
         img(src="@/assets/curso/temas/t4/img-4.png")
@@ -56,7 +56,7 @@
     .row.justify-content-center.mt-2
       p.text-center Actividades necesarias para implementar una certificación de proveedores:
     .row.justify-content-center.mt-5
-      .col-10
+      .col-10.col-sm-12
         img(src="@/assets/curso/temas/t4/img-6.png")
     .row.justify-content-center.mt-5
       .col-3
@@ -77,7 +77,7 @@
             i.fas.fa-check
             | Certificaciones diseñadas por la propia empresa.
           li
-      .col-3
+      .col-3.col-sm-5
         img(src="@/assets/curso/temas/t4/img-8.png")
     .row.justify-content-center.mt-5
       .col-8

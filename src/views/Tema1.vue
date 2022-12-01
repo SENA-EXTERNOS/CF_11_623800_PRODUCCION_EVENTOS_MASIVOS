@@ -7,7 +7,7 @@
         span 1
       h1 Cotizaciones de proveedores
     .row.justify-content-center
-      .col-lg-10
+      .col-lg-10.col-sm-12
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/t1/img-1.png' alt='img-1')

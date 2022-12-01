@@ -119,7 +119,7 @@
         img(src="@/assets/curso/temas/t2/img-11.png")
     p.mt-3 Aspectos para tener en cuenta en su elaboración.
     .row.justify-content-center.mt-5
-      .col-10
+      .col-10.col-sm-12
         img(src="@/assets/curso/temas/t2/img-12.png")
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-primario.p-5
@@ -156,7 +156,7 @@
         .cajon.color-acento-contenido.p-3.mb-0
           p <b>Cuadro comparativo sencillo de las ventajas y desventajas de los eventos masivos.</b>
     .row.justify-content-center.mt-5
-      .col-10
+      .col-10.col-sm-12
         img(src='@/assets/curso/temas/t2/img-16.png', alt='img-16')
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mt-5
       .bloque-texto-g__img(
