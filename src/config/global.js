@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'Los acuerdos con proveedores comerciales se realizan en toda empresa al momento de comprar cualquier bien o servicio, para lo cual se requieren los conocimientos en elaboración de cotizaciones, diseño de estructura de un cuadro comparativo, presentación de oferta comercial, modelos de certificación de proveedores, desarrollo sostenible y buenas prácticas, lo que permite establecer sinergia entre las partes.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner_principal1.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal2.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
