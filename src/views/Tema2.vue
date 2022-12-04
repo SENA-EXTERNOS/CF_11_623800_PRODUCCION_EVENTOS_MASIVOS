@@ -43,13 +43,13 @@
     .row.justify-content-center.mt-2
       .col-7.col-sm-6
         p De acuerdo con los ejemplos anteriores, se concluye que este tipo de herramientas permite sintetizar la información recolectada sobre la marcha, por lo que puede considerarse una de las principales ventajas de los recursos visuales.  Igualmente, permite agrupar uno o más textos en un marco, siendo útil para estudiar antes de un examen, exposición o presentación, así como para presentar partes de un trabajo académico, como una tesis, monografía, disertación e informes comerciales, pues permite el análisis global sintetizando las características de los datos.
-      .col-5.mb-3.col-sm-6
+      .col-lg-5.mb-3.col-sm-6
         img(src="@/assets/curso/temas/t2/img-7.png")
     p.mt-2 Presentación de las ventajas y desventajas de los cuadros comparativos:
     .row.justify-content-center.mt-2
-      .col-4.col-sm-6
+      .col-lg-4.col-sm-6
         img(src="@/assets/curso/temas/t2/img-8.png")
-      .col-6.col-sm-6
+      .col-lg-6.col-sm-6
         TabsA.color-acento-contenido.mb-5
           .tarjeta.color-acento-primario--borde.p-4(titulo="Ventajas")
             h4 Ventajas
