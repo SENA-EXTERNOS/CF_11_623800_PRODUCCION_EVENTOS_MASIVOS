@@ -7,13 +7,13 @@
         span 2
       h1 Cuadros comparativos
     .row
-      .col-4
+      .col-lg-4.col-sm-6
         img(src="@/assets/curso/temas/t2/img-3.png")
-      .col-8
+      .col-lg-8.col-sm-6
         .cajon-b.color-primario.p-3.mb-0
           p.mb-0 Una vez se cuenta con varias cotizaciones (lo ideal es contar con mínimo 3 en cada proceso), se debe analizar la opción más acertada a través de un cuadro comparativo. Como su nombre lo indica, estos cuadros ofrecen una representación visual de varias opciones que pueden compararse entre sí. Puede tener pros, contras y características claves que describan las diferencias vitales entre varias opciones.
           | Dado que no hay una regla general con los gráficos de comparación, estos pueden representar características tanto cuantitativas como cualitativas. En general, son fáciles de hacer y pueden ayudar en la toma de decisiones basadas en datos. 
-        .cajon-b.color-secundario.p-3.mb-5
+        .cajon-b.color-secundario.p-3.mb-4
           p.mb-0 Los cuadros comparativos sirven para organizar la información, facilitando la identificación de características similares y diferentes en los conceptos. Por eso son útiles en la adquisición de conocimientos y la memorización de contenidos.
     p Observar los siguientes ejemplos:
     .tarjeta.color-adicional-3.p-4.mb-5
