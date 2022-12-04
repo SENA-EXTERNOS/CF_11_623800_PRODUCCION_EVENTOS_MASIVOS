@@ -7,9 +7,9 @@
         span 4
       h1 Certificación de proveedores
     .row
-      .col-4
+      .col-lg-4.col-sm-6
         img(src="@/assets/curso/temas/t4/img-1.png")
-      .col-8
+      .col-lg-8.col-sm-6
         p Una vez el organizador de eventos o la empresa ha estudiado la propuesta comercial y cotización, se analizan por medio de un cuadro comparativo las diferentes alternativas, con el objetivo de aplicar una estrategia más amplia en gestión de calidad para proveedores. 
         p Se trata de un proceso mediante el cual una organización puede administrar sus relaciones con los proveedores para coordinar actividades en una sola unidad, y así crear valor para todas las partes interesadas, conocido como el ´ganar/ganar´. La certificación de proveedores establece los requisitos mínimos para que un proveedor sea elegible. El fin de este proceso es la mejora continua.
     p.mt-5 La importancia de establecer este proceso se encuentra en: 
@@ -39,30 +39,30 @@
         .cajon-b.color-secundario3.p-3.mb-3
           p.mb-0 Este proceso es importante para lograr una sólida relación entre empresa y proveedor. Aunque pueda parecer que es la empresa la mayor beneficiada, a continuación, se pueden observar algunas de las ventajas que ofrece para las dos partes.
     .row.justify-content-center.mt-2
-      .col-7
+      .col-lg-7.col-sm-10
         .cajon.color-primario.p-3.mb-0
           p Dentro de los beneficios que aporta la implementación del proceso, se encuentran:
     .row.justify-content-center.mt-5
-      .col-5.col-sm-7
+      .col-lg-5.col-sm-7
         img(src="@/assets/curso/temas/t4/img-3.png")
-      .col-3
+      .col-lg-3.col-sm-3
         img(src="@/assets/curso/temas/t4/img-4.png")
     .row.justify-content-center.mt-5
-      .col-5
+      .col-lg-5.col-sm-6
         img(src="@/assets/curso/temas/t4/img-5.png")
-      .col-6
+      .col-lg-6.col-sm-6
         p La mayoría de estos beneficios se pueden conseguir estableciendo objetivos mutuos en las áreas de control de calidad total y control estadístico del Proceso SPC, contando con menos reprocesos, desechos, errores de especificación, dibujo, recepción y facturación. Con este también se puede disminuir el coste total del producto.
         p.color.p-4 Con la garantía de cero defectos se reducen los inventarios, el stock de seguridad, y se puede eliminar la inspección, logrando tamaños de lotes más pequeños y entregas con mayor frecuencia, además de una configuración reducida y un papeleo administrativo racionalizado.
     .row.justify-content-center.mt-2
       p.text-center Actividades necesarias para implementar una certificación de proveedores:
     .row.justify-content-center.mt-5
-      .col-10.col-sm-12
+      .col-lg-10.col-sm-12
         img(src="@/assets/curso/temas/t4/img-6.png")
     .row.justify-content-center.mt-5
-      .col-3
+      .col-lg-3
         p Estas actividades se encuentran sujetas a las siguientes condiciones: todos los proveedores con los que se firma un contrato deben estar registrados en la base de datos de proveedores en la empresa, cumpliendo con los requisitos comerciales y legales de los documentos solicitados. 
         img(src="@/assets/curso/temas/t4/img-7.png")
-      .col-4
+      .col-lg-4
         p Existen principalmente tres tipos de certificación:
         ul.lista-ul--color
           li 
@@ -77,7 +77,7 @@
             i.fas.fa-check
             | Certificaciones diseñadas por la propia empresa.
           li
-      .col-3.col-sm-5
+      .col-lg-3.col-sm-5
         img(src="@/assets/curso/temas/t4/img-8.png")
     .row.justify-content-center.mt-5
       .col-8
