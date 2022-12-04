@@ -47,9 +47,9 @@
         img(src="@/assets/curso/temas/t2/img-7.png")
     p.mt-2 Presentación de las ventajas y desventajas de los cuadros comparativos:
     .row.justify-content-center.mt-2
-      .col-4.col-sm-4
+      .col-4.col-sm-6
         img(src="@/assets/curso/temas/t2/img-8.png")
-      .col-6.col-sm-5
+      .col-6.col-sm-6
         TabsA.color-acento-contenido.mb-5
           .tarjeta.color-acento-primario--borde.p-4(titulo="Ventajas")
             h4 Ventajas
