@@ -101,25 +101,25 @@
         .cajon-b.color-acento-contenido.p-3.mb-0
           p.mb-0 Es importante destacar que el cuadro comparativo no solo se utiliza para contrastar grupos de datos, sino también fenómenos, recibiendo así la información una vez realizada la comparación. Los datos obtenidos mediante el uso de un cuadro comparativo pueden ser de naturaleza cualitativa o cuantitativa, según el caso, siendo una herramienta ideal para examinar dos o más objetos de forma visual. Suele utilizarse en la investigación para evaluar varios modelos, descartar los menos viables y ofrecer una imagen relativamente detallada de las posibilidades. A continuación, se observan los tipos básicos de cuadros comparativos:
     .row.justify-content-center.mt-5
-      .col-10.col-sm-12
+      .col-lg-10.col-sm-12
         img(src="@/assets/curso/temas/t2/img_9.png")
     .row.justify-content-center.mt-5
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
           p Consiste en información descriptiva, es decir, en estos la información no se puede presentar de manera numérica. En algunos casos, suele componerse de contenidos subjetivos, como las opiniones y experiencias de dos autores pioneros del arte contemporáneo. 
     .row.justify-content-center.mt-5
-      .col-10.col-sm-12
+      .col-lg-10.col-sm-12
         img(src="@/assets/curso/temas/t2/img-10.png")
     .row.justify-content-center.mt-5
-      .col-7
+      .col-lg-7.col-sm-6
         p Este cuadro contiene variables medibles sistemáticas, con el fin de comprender patrones y frecuencias. Se diseña con información objetiva, utilizando datos estadísticos, como el número de personas en un país, los resultados de encuestas y sondeos, permitiendo así que los datos sean comparados y analizados.
         .cajon.color-acento-contenido.p-3.mb-0
           p Ya se ha mencionado el concepto, utilidad, ventajas y desventajas de esta herramienta, ahora es momento de conocer los aspectos que se deben tener en cuenta al momento de elaborar un cuadro comparativo. Al realizar una tabla o gráfico de este tipo, es importante tener una idea clara de lo que se desea plasmar o identificar, ya que esto permite reconocer las variables y su correcta organización para optimizar todo el proceso.
-      .col-5
+      .col-lg-5.col-sm-6
         img(src="@/assets/curso/temas/t2/img-11.png")
     p.mt-3 Aspectos para tener en cuenta en su elaboración.
     .row.justify-content-center.mt-5
-      .col-10.col-sm-12
+      .col-lg-10.col-sm-12
         img(src="@/assets/curso/temas/t2/img-12.png")
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-primario.p-5
@@ -152,11 +152,11 @@
         h2.text-center Escribir una conclusión:
         p Es importante que al completar la tabla de comparación se obtengan conclusiones apropiadas para las unidades que se comparan.
     .row.justify-content-center.mt-5
-      .col-6-col-sm-8
+      .col-lg-6-col-sm-8
         .cajon.color-acento-contenido.p-3.mb-0
           p <b>Cuadro comparativo sencillo de las ventajas y desventajas de los eventos masivos.</b>
     .row.justify-content-center.mt-5
-      .col-10.col-sm-12
+      .col-lg-10.col-sm-12
         img(src='@/assets/curso/temas/t2/img-16.png', alt='img-16')
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mt-5
       .bloque-texto-g__img(
