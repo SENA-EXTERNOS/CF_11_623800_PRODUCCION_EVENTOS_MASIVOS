@@ -85,7 +85,7 @@
           p.mb-0 Descargar el <b>Anexo: 2_CHECK LIST DE EVALUACIÓN PARA PROVEEDORES</b>, esta lista de comprobación se diligencia cada vez que se realiza una evaluación inicial del proveedor, o si se evalúa de nuevo a un proveedor bloqueado para su aprobación.
     
     .row.mt-5.justify-content-center
-      .col-8
+      .col-lg-8.col-sm-12
         .tarjeta.color-primario.p-3.mb-5
             .row.justify-content-around.align-items-center
               .col-4.col-sm-4.col-lg-2
@@ -100,7 +100,6 @@
                       span Descargar
                       i.fas.fa-file-download
 
-    
 </template>
 
 <script>
