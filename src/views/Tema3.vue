@@ -7,16 +7,16 @@
         span 3
       h1 Oferta comercial
     .row.justify-content-center.mt-2
-      .col-8
+      .col-lg-8.col-sm-4
         .cajon-b.contenido.p-3.mb-5
           p.mb-0 Otro documento esencial en la selección de proveedores es la oferta comercial. Esta es entregada de vendedor a cliente, realizando la presentación general de la empresa, en la que se resalta la información relevante del producto mientras se definen las características y condiciones (en caso de que aplique) que tiene la compañía para sus ventas.
           p.mt-3 Es importante aclarar que las ofertas comerciales son utilizadas principalmente en ventas mayoristas, empresariales e institucionales, ya que en ventas al cliente final o al detal el proceso es más informal, debido a que el vendedor presenta su portafolio esperando una aceptación rápida por parte del cliente y no requiere mediar una propuesta.
-      .col-4
+      .col-lg-4.col-sm-2
         img(src='@/assets/curso/temas/t3/img-1.png', alt='img1')
     .row
-      .col-4
+      .col-lg-4.col-sm-3
         img(src="@/assets/curso/temas/t3/img-2.png")
-      .col-8        
+      .col-lg-8.col.sm-6        
         .cajon-b.color-secundario1.p-3.mb-5
           p.mb-0 La oferta o propuesta comercial es importante por distintas razones: formaliza el proceso comercial, es decir, muestra una estructura a seguir por parte de la empresa y el vendedor; sirve de soporte para cada una de las partes (empresa - cliente) en el momento de tener inquietudes respecto a lo ofrecido/adquirido y permite realizar una comparación adecuada entre las alternativas por parte del cliente. Es importante referenciar que en algunas empresas, según su organización, se cuenta con templates (plantillas) o proformas, las cuales estandarizan la información y facilitan la labor comercial.
           p.mt-3 Se recomienda ver el siguiente video para reconocer algunos de los aspectos a tener en cuenta en la elaboración de una propuesta comercial.
