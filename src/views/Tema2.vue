@@ -41,15 +41,15 @@
             figure
               img(src='@/assets/curso/temas/t2/img_6.png', alt='img6')
     .row.justify-content-center.mt-2
-      .col-7
+      .col-7.col-sm-6
         p De acuerdo con los ejemplos anteriores, se concluye que este tipo de herramientas permite sintetizar la información recolectada sobre la marcha, por lo que puede considerarse una de las principales ventajas de los recursos visuales.  Igualmente, permite agrupar uno o más textos en un marco, siendo útil para estudiar antes de un examen, exposición o presentación, así como para presentar partes de un trabajo académico, como una tesis, monografía, disertación e informes comerciales, pues permite el análisis global sintetizando las características de los datos.
-      .col-5.mb-3
+      .col-5.mb-3.col-sm-6
         img(src="@/assets/curso/temas/t2/img-7.png")
     p.mt-2 Presentación de las ventajas y desventajas de los cuadros comparativos:
     .row.justify-content-center.mt-2
-      .col-4
+      .col-4.col-sm-4
         img(src="@/assets/curso/temas/t2/img-8.png")
-      .col-6
+      .col-6.col-sm-5
         TabsA.color-acento-contenido.mb-5
           .tarjeta.color-acento-primario--borde.p-4(titulo="Ventajas")
             h4 Ventajas
@@ -101,14 +101,14 @@
         .cajon-b.color-acento-contenido.p-3.mb-0
           p.mb-0 Es importante destacar que el cuadro comparativo no solo se utiliza para contrastar grupos de datos, sino también fenómenos, recibiendo así la información una vez realizada la comparación. Los datos obtenidos mediante el uso de un cuadro comparativo pueden ser de naturaleza cualitativa o cuantitativa, según el caso, siendo una herramienta ideal para examinar dos o más objetos de forma visual. Suele utilizarse en la investigación para evaluar varios modelos, descartar los menos viables y ofrecer una imagen relativamente detallada de las posibilidades. A continuación, se observan los tipos básicos de cuadros comparativos:
     .row.justify-content-center.mt-5
-      .col-10
+      .col-10.col-sm-12
         img(src="@/assets/curso/temas/t2/img_9.png")
     .row.justify-content-center.mt-5
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
           p Consiste en información descriptiva, es decir, en estos la información no se puede presentar de manera numérica. En algunos casos, suele componerse de contenidos subjetivos, como las opiniones y experiencias de dos autores pioneros del arte contemporáneo. 
     .row.justify-content-center.mt-5
-      .col-10
+      .col-10.col-sm-12
         img(src="@/assets/curso/temas/t2/img-10.png")
     .row.justify-content-center.mt-5
       .col-7
@@ -152,7 +152,7 @@
         h2.text-center Escribir una conclusión:
         p Es importante que al completar la tabla de comparación se obtengan conclusiones apropiadas para las unidades que se comparan.
     .row.justify-content-center.mt-5
-      .col-6
+      .col-6-col-sm-8
         .cajon.color-acento-contenido.p-3.mb-0
           p <b>Cuadro comparativo sencillo de las ventajas y desventajas de los eventos masivos.</b>
     .row.justify-content-center.mt-5
