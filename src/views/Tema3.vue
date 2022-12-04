@@ -11,7 +11,7 @@
         .cajon-b.contenido.p-3.mb-5
           p.mb-0 Otro documento esencial en la selección de proveedores es la oferta comercial. Esta es entregada de vendedor a cliente, realizando la presentación general de la empresa, en la que se resalta la información relevante del producto mientras se definen las características y condiciones (en caso de que aplique) que tiene la compañía para sus ventas.
           p.mt-3 Es importante aclarar que las ofertas comerciales son utilizadas principalmente en ventas mayoristas, empresariales e institucionales, ya que en ventas al cliente final o al detal el proceso es más informal, debido a que el vendedor presenta su portafolio esperando una aceptación rápida por parte del cliente y no requiere mediar una propuesta.
-      .col-lg-4.col-sm-6
+      .col-lg-4.col-sm-2
         img(src='@/assets/curso/temas/t3/img-1.png', alt='img1')
     .row
       .col-lg-4.col-sm-3
