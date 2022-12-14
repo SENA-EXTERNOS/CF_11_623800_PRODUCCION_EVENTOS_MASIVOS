@@ -7,17 +7,17 @@
         span 6
       h1 Buenas prácticas de selección de proveedores
     .row
-      .col-3.col.col-sm-5
+      .col-lg-3.col-sm-5
         img(src="@/assets/curso/temas/t6/img-1.png")
-      .col-9
+      .col-lg-9
         p Mantener una buena relación con los clientes es esencial en cada etapa de la selección, incluso después de una venta. Ofrecer un servicio posventa demuestra valor a sus clientes, generando una posible recompra. Además, un cliente satisfecho puede actuar como promotor de los productos y servicios, aumentando así la visibilidad de la empresa. Por lo tanto, ofrecer un buen servicio posventa es tan importante como conseguir otros nuevos clientes.
         p Existen diversas métricas que deben ser monitoreadas por los empresarios, y una de ellas es la recompra, es decir, el número de personas que han adquirido un producto o servicio y lo hacen de nuevo.
     .row.mt-2
-      .col-7.col-sm-6
+      .col-lg-7.col-sm-6
         p Ahora bien, entrando en la definición de una buena práctica, es una norma o conjunto de directrices que producen resultados positivos de ser aplicados correctamente. Las buenas prácticas están relacionadas con la forma de llevar a cabo una tarea o configuración. Las directrices estrictas de las mejores prácticas pueden ser establecidas por un órgano del gobierno y de forma interna en una organización, estableciéndose en las orientaciones del fabricante o en directrices publicadas.
         p En algunos sectores puede existir un requisito legal para seguir las directrices de las buenas prácticas; sin embargo, en muchos campos tecnológicos una buena práctica suele presentar la forma óptima de trabajar, como por ejemplo, la forma correcta de utilizar un producto o el conjunto de ideales a los que se aspira. Aunque no sea obligatorio seguir una mejor práctica, se recomienda que la organización la implemente en sus procesos.
         p Las buenas prácticas son creadas por una organización o un fabricante a través de la investigación, con el fin de establecer directrices o puntos de referencia que puedan ser referentes en otras organizaciones.
-      .col-5
+      .col-lg-5.col-sm-6
         img(src="@/assets/curso/temas/t6/img-2.png")
       p.text-center.mt-3 Algunas pautas para crear buenas prácticas son: 
       .tarjeta.color-adicional-3.p-4.mb-5

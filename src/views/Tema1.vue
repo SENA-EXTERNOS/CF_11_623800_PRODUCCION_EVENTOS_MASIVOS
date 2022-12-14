@@ -78,7 +78,7 @@
             p.mb-0 Para ver un formato sencillo, se recomienda descargar el <b>Anexo 1: Modelo Cotización Simple</b>. Una vez se tenga claro cómo puede verse el formato, es necesario observar que toda cotización deberá presentar información clara y precisa sobre los ítems que la conforman, ya que cada uno de estos tiene un objetivo de comunicación específico.
             .col-md.col-lg-6
     .row.mt-5.justify-content-center
-      .col-8
+      .col-lg-8.col-sm-12
         .tarjeta.color-primario.p-3.mb-5
             .row.justify-content-around.align-items-center
               .col-4.col-sm-4.col-lg-2
