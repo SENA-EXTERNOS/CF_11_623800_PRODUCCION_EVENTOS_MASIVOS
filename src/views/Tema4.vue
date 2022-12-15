@@ -52,7 +52,7 @@
         img(src="@/assets/curso/temas/t4/img-5.png")
       .col-lg-6.col-sm-6
         p La mayoría de estos beneficios se pueden conseguir estableciendo objetivos mutuos en las áreas de control de calidad total y control estadístico del Proceso SPC, contando con menos reprocesos, desechos, errores de especificación, dibujo, recepción y facturación. Con este también se puede disminuir el coste total del producto.
-        p.color.p-4 Con la garantía de cero defectos se reducen los inventarios, el stock de seguridad, y se puede eliminar la inspección, logrando tamaños de lotes más pequeños y entregas con mayor frecuencia, además de una configuración reducida y un papeleo administrativo racionalizado.
+        p.color.p-4 Con la garantía de cero defectos se reducen los inventarios, el <i>stock</i> de seguridad, y se puede eliminar la inspección, logrando tamaños de lotes más pequeños y entregas con mayor frecuencia, además de una configuración reducida y un papeleo administrativo racionalizado.
     .row.justify-content-center.mt-2
       p.text-center Actividades necesarias para implementar una certificación de proveedores:
     .row.justify-content-center.mt-5
@@ -82,7 +82,7 @@
     .row.justify-content-center.mt-5
       .col-8
         .cajon-b.color-secundario4.p-3.mb-3
-          p.mb-0 Descargar el <b>Anexo: 2_CHECK LIST DE EVALUACIÓN PARA PROVEEDORES</b>, esta lista de comprobación se diligencia cada vez que se realiza una evaluación inicial del proveedor, o si se evalúa de nuevo a un proveedor bloqueado para su aprobación.
+          p.mb-0 Descargar el <b>Anexo: <i>2_CHECK LIST</i> DE EVALUACIÓN PARA PROVEEDORES</b>, esta lista de comprobación se diligencia cada vez que se realiza una evaluación inicial del proveedor, o si se evalúa de nuevo a un proveedor bloqueado para su aprobación.
     
     .row.mt-5.justify-content-center
       .col-lg-8.col-sm-12
@@ -94,9 +94,9 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h3.mb-1 PDF - Anexo 2
-                    p.text-small Check list de evaluación para proveedores
+                    p.text-small <i>Check list</i> de evaluación para proveedores
                   .col-sm-auto
-                    a.boton.color-adicional-2.texto-blanco(:href="obtenerLink('downloads/ANEXO 2_ CHECK LIST DE EVALUACION PARA PROVEEDORES.docx')" target="_blank")
+                    a.boton.color-adicional-2.texto-blanco(:href="obtenerLink('downloads/ANEXO 2_ CHECK LIST DE EVALUACION PARA PROVEEDORES-1.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
 

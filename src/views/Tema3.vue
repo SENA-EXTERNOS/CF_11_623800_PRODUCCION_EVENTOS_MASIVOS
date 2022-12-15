@@ -18,7 +18,7 @@
         img(src="@/assets/curso/temas/t3/img-2.png")
       .col-lg-8.col.sm-6        
         .cajon-b.color-secundario1.p-3.mb-5
-          p.mb-0 La oferta o propuesta comercial es importante por distintas razones: formaliza el proceso comercial, es decir, muestra una estructura a seguir por parte de la empresa y el vendedor; sirve de soporte para cada una de las partes (empresa - cliente) en el momento de tener inquietudes respecto a lo ofrecido/adquirido y permite realizar una comparación adecuada entre las alternativas por parte del cliente. Es importante referenciar que en algunas empresas, según su organización, se cuenta con templates (plantillas) o proformas, las cuales estandarizan la información y facilitan la labor comercial.
+          p.mb-0 La oferta o propuesta comercial es importante por distintas razones: formaliza el proceso comercial, es decir, muestra una estructura a seguir por parte de la empresa y el vendedor; sirve de soporte para cada una de las partes (empresa - cliente) en el momento de tener inquietudes respecto a lo ofrecido/adquirido y permite realizar una comparación adecuada entre las alternativas por parte del cliente. Es importante referenciar que en algunas empresas, según su organización, se cuenta con <i>templates</i> (plantillas) o proformas, las cuales estandarizan la información y facilitan la labor comercial.
           p.mt-3 Se recomienda ver el siguiente video para reconocer algunos de los aspectos a tener en cuenta en la elaboración de una propuesta comercial.
     .row.justify-content-center
       .col-lg-10
@@ -61,9 +61,9 @@
           .tarjeta.color-acento-primario--borde.p-4(titulo="Importancia al precio")
             h4 Importancia al precio
             .row.justify-content-center.mt-2
-              .col-lg-4.col-lg-6
+              .col-lg-3.col-lg-6
                 img(src='@/assets/curso/temas/t3/img-6.png', alt='img6')
-              .col-lg-8.col-sm-6
+              .col-lg-6.col-sm-6
                 p El valor del producto o servicio es uno de los aspectos de mayor interés para un cliente potencial a la hora de tomar una decisión. No debe haber limitaciones al exponer el valor y las formas de pago; es clave explicar con detalle, quizá con un gráfico o una hoja de cálculo, lo que incluye el precio, los recursos utilizados y la carga horaria.
           .tarjeta.color-acento-primario--borde.p-4(titulo="Incluir un calendario")
             h4 Incluir un calendario
@@ -81,13 +81,13 @@
               .col-lg-8.col-sm-6
                 p Mostrar al cliente que tiene diferentes opciones para cerrar el trato con la empresa puede ser atractivo, y este se sentirá libre de elegir la que más le convenga. Este tipo de tácticas puede ayudar a ofrecer productos y servicios de diferentes gamas, demostrando así la capacidad de cubrir cualquier escenario.
     .row.justify-content-center
-      .col-lg-10.col-sm-12
+      .col-lg-8.col-sm-12
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/t3/img-9.png' alt='img-9')
           .tarjeta.color-a
             .p-4
-              p.mb-3 Una vez claros los detalles y elementos a tener en cuenta en la elaboración de una propuesta comercial, se genera el cuestionamiento sobre cuáles son las ventajas y desventajas de tener una solicitud de oferta.
+              p.mb-0 Una vez claros los detalles y elementos a tener en cuenta en la elaboración de una propuesta comercial, se genera el cuestionamiento sobre cuáles son las ventajas y desventajas de tener una solicitud de oferta.
     .row.justify-content-center
       .col-lg-6
         .cajon-b.contenido.p-3.mb-5

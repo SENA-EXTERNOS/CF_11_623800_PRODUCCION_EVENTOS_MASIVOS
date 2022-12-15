@@ -23,39 +23,39 @@
       .tarjeta.color-adicional-3.p-4.mb-5
         SlyderA(tipo="b")
           .row.justify-content-center
-            .col-md-4.mb-0.mb-md-0
+            .col-md-5.mb-0.mb-md-0
               p Cuando una empresa establece y comunica sus directrices de buenas prácticas internas, permitiendo dar lugar a un producto de trabajo más coherente, mayor eficiencia y satisfacción de los empleados.
-            .col-md-3
+            .col-md-2
               figure
                 img(src='@/assets/curso/temas/t6/img-3.png', alt='img3')
           .row.justify-content-center
             .col-md-4.mb-4.mb-md-0
               p Identificar las áreas que se beneficiarían del establecimiento de las buenas prácticas. Es necesario buscar funciones o grupos con un producto de trabajo donde se presenten opiniones diferentes sobre cómo llevar a cabo una tarea.
-            .col-md-3
+            .col-md-2
               figure
                 img(src='@/assets/curso/temas/t6/img-4.png', alt='img4')
           .row.justify-content-center
             .col-md-4.mb-4.mb-md-0
               p Buscar las mejores prácticas existentes, consultando la existencia sobre orientaciones escritas internas o externas de cómo llevar a cabo una tarea.
-            .col-md-3
+            .col-md-2
               figure
                 img(src='@/assets/curso/temas/t6/img-5.png', alt='img5')
           .row.justify-content-center
             .col-md-4.mb-4.mb-md-0
               p Preguntar a los trabajadores qué les parece útil para captar el conocimiento de la organización. Si un grupo tiene más éxito que otros, es clave analizar qué hacen de forma diferente e intentar aplicarlo a todos los grupos.
-            .col-md-3
+            .col-md-2
               figure
                 img(src='@/assets/curso/temas/t6/img-6.png', alt='img6')
           .row.justify-content-center
             .col-md-4.mb-4.mb-md-0
               p Comunicar las recientes buenas prácticas. Se debe lograr que las nuevas directrices sean claras, para que luego sean publicadas en un lugar de fácil acceso.
-            .col-md-3
+            .col-md-2
               figure
                 img(src='@/assets/curso/temas/t6/img-7.png', alt='img7')
           .row.justify-content-center
             .col-md-4.mb-4.mb-md-0
               p Medir el impacto de las buenas prácticas nuevas. Es posible que el establecimiento de dichas directrices no siempre tenga el efecto deseado, por esta razón, se debe programar un examen de seguimiento y realizar los cambios necesarios.
-            .col-md-3
+            .col-md-2
               figure
                 img(src='@/assets/curso/temas/t6/img-8.png', alt='img8')
       .row.justify-content-center

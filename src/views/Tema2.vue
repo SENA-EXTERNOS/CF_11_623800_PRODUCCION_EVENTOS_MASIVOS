@@ -30,7 +30,7 @@
             figure
               img(src='@/assets/curso/temas/t2/img_5.png', alt='img5')
         .row.justify-content-center
-          .col-md-6.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-md-0
             h4 Ejemplo 2:
             p Por su parte, una joven que está planificando sus vacaciones decide elaborar un cuadro comparativo para definir qué hotel le conviene más: 
             p Hotel Estelar / Hotel Sonesta.
@@ -101,8 +101,8 @@
         .cajon-b.color-acento-contenido.p-3.mb-0
           p.mb-0 Es importante destacar que el cuadro comparativo no solo se utiliza para contrastar grupos de datos, sino también fenómenos, recibiendo así la información una vez realizada la comparación. Los datos obtenidos mediante el uso de un cuadro comparativo pueden ser de naturaleza cualitativa o cuantitativa, según el caso, siendo una herramienta ideal para examinar dos o más objetos de forma visual. Suele utilizarse en la investigación para evaluar varios modelos, descartar los menos viables y ofrecer una imagen relativamente detallada de las posibilidades. A continuación, se observan los tipos básicos de cuadros comparativos:
     .row.justify-content-center.mt-5
-      .col-lg-10.col-sm-12
-        img(src="@/assets/curso/temas/t2/img_9.png")
+      .col-lg-9.col-sm-12
+        img(src="@/assets/curso/temas/t2/img-9.png")
     .row.justify-content-center.mt-5
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
@@ -127,7 +127,7 @@
           .col-8
             figure
               img(src='@/assets/curso/temas/t2/img-13.png', alt='img-13')
-        h2.text-center Especificar los elementos a comparar:
+        h2.text-center Especificar los elementos a comparar
         p Identificar los datos que serán estudiados, analizar sus similitudes, diferencias y ventajas.
         p Antes de crear una tabla de comparación, es necesario tener presente que esta debe ser clara respecto a las características de cada producto, bien o servicio, y los parámetros que se desea comparar.
       .col-md.tarjeta.color-acento-contenido.p-5
@@ -135,21 +135,21 @@
           .col-8
             figure
               img(src='@/assets/curso/temas/t2/img-14.png', alt='img-14')
-        h2.text-center Crear un diseño útil:
+        h2.text-center Crear un diseño útil
         p Al momento de preparar el cuadro se inicia con la creación de una tabla o cuadrícula con el número requerido de columnas y filas, según los elementos o variables que se deseen comparar. Se añade un diseño atractivo y profesional. 
       .col-md.tarjeta.color-acento-botones.text-white.p-5
         .row.justify-content-center.mb-4
           .col-8
             figure
               img(src='@/assets/curso/temas/t2/img-15.png', alt='img-15')
-        h2.text-center Diligenciar el cuadro:
+        h2.text-center Diligenciar el cuadro
         p Con el diseño listo, se procede a llenar la tabla con los datos de la información suministrada. Se recomienda ser breve, específico y claro.
       .col-md.tarjeta.color-secundario.text-white.p-5
         .row.justify-content-center.mb-4
           .col-8
             figure
               img(src='@/assets/curso/temas/t2/img_15.png', alt='img-15')
-        h2.text-center Escribir una conclusión:
+        h2.text-center Escribir una conclusión
         p Es importante que al completar la tabla de comparación se obtengan conclusiones apropiadas para las unidades que se comparan.
     .row.justify-content-center.mt-5
       .col-lg-6-col-sm-8
