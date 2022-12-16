@@ -93,7 +93,7 @@
         .cajon-b.contenido.p-3.mb-5
           p.mb-0 Dentro de las ventajas se encuentra que la empresa que adquiere los suministros conocerá la procedencia de la mercancía y a quien se le entrega, por lo que siempre existirá una alta posibilidad sobre la respuesta para las peticiones de una oferta; el número de ofertas recibidas se limita al porcentaje de estas solicitadas a los licitadores, por lo que el tiempo del proceso de selección se reduce considerablemente, al igual que el tiempo del proceso de contratación, ya que no es necesario preparar las condiciones ni anunciar los requisitos, minimizando así el plazo de presentación de las ofertas. 
       .col-lg-6
-        .cajon-b.color-secundario2.p-3.mb-5
+        .cajon-b.color-secundario.p-3.mb-5
           p.mb-0 Dentro de las desventajas se encuentra el hecho de que la entidad contratante decida a qué proveedores o prestadores de servicios enviar la solicitud de presupuesto, esta acción puede dar lugar a irregularidades, al igual que la competencia entre los proveedores sea limitada, reduciendo así las opciones. Por otra parte, se podría abusar del proceso de petición de oferta como resultado de la división de los requisitos en tamaños más pequeños, solo para aplicar este método de contratación. 
 
 </template>
