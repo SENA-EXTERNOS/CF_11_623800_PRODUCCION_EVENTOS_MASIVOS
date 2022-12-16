@@ -76,7 +76,7 @@
           .tarjeta.color-acento-primario--borde.p-4(titulo="Presente más de una opción")
             h4 Presente más de una opción
             .row.justify-content-center.mt-2
-              .col-lg-4.col-sm-6
+              .col-lg-4.col-sm-6 
                 img(src='@/assets/curso/temas/t3/img-8.png', alt='img8')
               .col-lg-8.col-sm-6
                 p Mostrar al cliente que tiene diferentes opciones para cerrar el trato con la empresa puede ser atractivo, y este se sentirá libre de elegir la que más le convenga. Este tipo de tácticas puede ayudar a ofrecer productos y servicios de diferentes gamas, demostrando así la capacidad de cubrir cualquier escenario.

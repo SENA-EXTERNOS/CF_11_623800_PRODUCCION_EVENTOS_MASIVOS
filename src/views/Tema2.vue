@@ -146,7 +146,7 @@
         p Con el diseño listo, se procede a llenar la tabla con los datos de la información suministrada. Se recomienda ser breve, específico y claro.
       .col-md.tarjeta.color-secundario.text-white.p-5
         .row.justify-content-center.mb-4
-          .col-8
+          .col-8 
             figure
               img(src='@/assets/curso/temas/t2/img_15.png', alt='img-15')
         h2.text-center Escribir una conclusión

@@ -113,7 +113,7 @@
           .row(titulo="Métodos o procedimientos de pago")
             .col-md-12.mb-4.mb-md-0
               p Es fundamental poner en claro los procedimientos de pago requeridos, o si tiene alguna restricción. Además, se deben especificar ciertas condiciones, por ejemplo impuestos, descuentos particulares por el pago total, posibilidades de división del costo total en mensualidades, etcétera.  
-          .row(titulo="Entrega")
+          .row(titulo="Entrega") 
             .col-md-12.mb-4.mb-md-0
               p Hace referencia al tiempo en el cual se proporcionan los productos y los plazos para desarrollar o concretar el servicio, una vez confirmada la compra que se ha planteado en la cotización. 
           .row(titulo="Garantías y soporte")
