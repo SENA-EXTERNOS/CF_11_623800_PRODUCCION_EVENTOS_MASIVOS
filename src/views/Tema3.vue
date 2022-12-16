@@ -81,7 +81,7 @@
               .col-lg-8.col-sm-6
                 p Mostrar al cliente que tiene diferentes opciones para cerrar el trato con la empresa puede ser atractivo, y este se sentirá libre de elegir la que más le convenga. Este tipo de tácticas puede ayudar a ofrecer productos y servicios de diferentes gamas, demostrando así la capacidad de cubrir cualquier escenario.
     .row.justify-content-center
-      .col-lg-8.col-sm-12 
+      .col-lg-7.col-sm-12 
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/t3/img-9.png' alt='img-9')
