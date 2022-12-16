@@ -61,7 +61,7 @@
           .tarjeta.color-acento-primario--borde.p-4(titulo="Importancia al precio")
             h4 Importancia al precio
             .row.justify-content-center.mt-2
-              .col-lg-3.col-lg-6
+              .col-lg-2.col-lg-6
                 img(src='@/assets/curso/temas/t3/img-6.png', alt='img6')
               .col-lg-6.col-sm-6
                 p El valor del producto o servicio es uno de los aspectos de mayor interés para un cliente potencial a la hora de tomar una decisión. No debe haber limitaciones al exponer el valor y las formas de pago; es clave explicar con detalle, quizá con un gráfico o una hoja de cálculo, lo que incluye el precio, los recursos utilizados y la carga horaria.
