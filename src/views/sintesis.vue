@@ -2,8 +2,6 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p <b>Producción de eventos masivos</b>
-    p.mb-5 Síntesis: Condiciones comerciales de proveedores 
     .row.justify-content-center
       .col
         p Estimado aprendiz, a continuación podrá visualizar una síntesis temática estudiada en este componente de formación, donde podrá visualizar las ideas principales de los temas desarrollados.

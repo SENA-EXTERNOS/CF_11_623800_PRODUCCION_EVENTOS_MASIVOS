@@ -134,21 +134,21 @@ export default {
       referencia:
         'González, Y. (2017) <i> Certificación gestión de eventos sociales empresariales </i> [video]. YouTube. https://www.youtube.com/watch?v=9CP4sPFzMdg',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=9CP4sPFzMdg',
+      link: 'http://www.youtube.com/watch?v=9CP4sPFzMdg',
     },
     {
       tema: 'Desarrollo sostenible.',
       referencia:
         'Universidad Rey Juan Carlos. (2017). Guía de buenas prácticas para la realización de eventos sostenibles en la URJC. (Archivo PDF). https://www.urjc.es/images/EstudiarURJC/vida_universitaria/compromiso_social/sostenibilidad/guia-de-buenas-practicas-para-la-realizacion-de-eventos-sostenibles-en-la-urjc.pdf',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=RstFV_n6wRg',
+      link: 'https://www.youtube.com/watch?v=RstFV_n6wRg',
     },
     {
       tema: 'Desarrollo sostenible.',
       referencia:
         'Universidad Rey Juan Carlos. (2017). <i> Guía de buenas prácticas para la realización de eventos sostenibles en la URJC. </i> (Archivo PDF). https://www.urjc.es/images/EstudiarURJC/vida_universitaria/compromiso_social/sostenibilidad/guia-de-buenas-practicas-para-la-realizacion-de-eventos-sostenibles-en-la-urjc.pdf',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://www.urjc.es/images/EstudiarURJC/vida_universitaria/compromiso_social/sostenibilidad/guia-de-buenas-practicas-para-la-realizacion-de-eventos-sostenibles-en-la-urjc.pdf',
     },
     {
@@ -156,7 +156,7 @@ export default {
       referencia:
         'AERCE. Agencia de Eventos Españoles Asociadas AEVEA. (2018). <i> Guía técnica de buenas prácticas en la compra de servicios de eventos. </i> (Archivo PDF). https://aevea.es/add/modelos-de-trabajo/Guia-Buenas-Practicas-Compras-de-Eventos-2018.pdf',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://aevea.es/add/modelos-de-trabajo/Guia-Buenas-Practicas-Compras-de-Eventos-2018.pdf',
     },
   ],
