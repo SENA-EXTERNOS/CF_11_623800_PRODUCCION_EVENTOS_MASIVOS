@@ -130,21 +130,21 @@ export default {
       link: 'https://economipedia.com/definiciones/cotizacion.html',
     },
     {
-      tema: 'Certificación de proveedores.',
+      tema: 'Certificación de proveedores',
       referencia:
         'González, Y. (2017) <i> Certificación gestión de eventos sociales empresariales </i> [video]. YouTube. https://www.youtube.com/watch?v=9CP4sPFzMdg',
       tipo: 'Video',
       link: 'http://www.youtube.com/watch?v=9CP4sPFzMdg',
     },
     {
-      tema: 'Desarrollo sostenible.',
+      tema: 'Desarrollo sostenible',
       referencia:
-        'Universidad Rey Juan Carlos. (2017). Guía de buenas prácticas para la realización de eventos sostenibles en la URJC. (Archivo PDF). https://www.urjc.es/images/EstudiarURJC/vida_universitaria/compromiso_social/sostenibilidad/guia-de-buenas-practicas-para-la-realizacion-de-eventos-sostenibles-en-la-urjc.pdf',
+        'Foundation, E. M. (s.f.). Rethinking Progress [video]. YouTube. Economía circular y producción sostenible. https://www.youtube.com/watch?v=RstFV_n6wRg',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=RstFV_n6wRg',
     },
     {
-      tema: 'Desarrollo sostenible.',
+      tema: 'Desarrollo sostenible',
       referencia:
         'Universidad Rey Juan Carlos. (2017). <i> Guía de buenas prácticas para la realización de eventos sostenibles en la URJC. </i> (Archivo PDF). https://www.urjc.es/images/EstudiarURJC/vida_universitaria/compromiso_social/sostenibilidad/guia-de-buenas-practicas-para-la-realizacion-de-eventos-sostenibles-en-la-urjc.pdf',
       tipo: 'PDF',
@@ -152,7 +152,7 @@ export default {
         'https://www.urjc.es/images/EstudiarURJC/vida_universitaria/compromiso_social/sostenibilidad/guia-de-buenas-practicas-para-la-realizacion-de-eventos-sostenibles-en-la-urjc.pdf',
     },
     {
-      tema: 'Buenas prácticas en la selección de proveedores.',
+      tema: 'Buenas prácticas en la selección de proveedores',
       referencia:
         'AERCE. Agencia de Eventos Españoles Asociadas AEVEA. (2018). <i> Guía técnica de buenas prácticas en la compra de servicios de eventos. </i> (Archivo PDF). https://aevea.es/add/modelos-de-trabajo/Guia-Buenas-Practicas-Compras-de-Eventos-2018.pdf',
       tipo: 'PDF',
@@ -169,12 +169,12 @@ export default {
     {
       termino: 'Buena práctica',
       significado:
-        'norma o conjunto de directrices que se sabe que producen buenos resultados si se siguen',
+        'norma o conjunto de directrices que se sabe que producen buenos resultados si se siguen.',
     },
     {
       termino: 'Cotización',
       significado:
-        'documento elaborado por un proveedor potencial en el que se especifica el costo de los bienes o servicios que este proporcionará en un periodo determinado',
+        'documento elaborado por un proveedor potencial en el que se especifica el costo de los bienes o servicios que este proporcionará en un periodo determinado.',
     },
     {
       termino: 'Comunicación',
@@ -184,7 +184,7 @@ export default {
     {
       termino: 'Desarrollo sostenible',
       significado:
-        'desarrollo que satisface las necesidades actuales de las personas sin comprometer la capacidad de las futuras  generaciones para satisfacer las suyas',
+        'desarrollo que satisface las necesidades actuales de las personas sin comprometer la capacidad de las futuras  generaciones para satisfacer las suyas.',
     },
     {
       termino: 'Proveedor',
@@ -199,7 +199,7 @@ export default {
     {
       termino: 'Servicio posventa',
       significado:
-        'técnicas y estrategias para conservar la relación empresa - cliente, buscando que esta perdure a través del tiempo',
+        'técnicas y estrategias para conservar la relación empresa - cliente, buscando que esta perdure a través del tiempo.',
     },
     {
       termino: 'Solicitud',
@@ -210,11 +210,6 @@ export default {
       termino: 'Sostenible:',
       significado:
         'sistemas biológicos que se mantienen productivos con el transcurso del tiempo, se refiere al equilibrio de una especie.',
-    },
-    {
-      termino: 'Buena práctica',
-      significado:
-        'norma o conjunto de directrices que se sabe que producen buenos resultados si se siguen',
     },
   ],
   referencias: [
@@ -242,7 +237,7 @@ export default {
       referencia:
         'PDF Superintendencia de Industria y Comercio (SIC). (2022). <i> Manual Buenas prácticas en la contratación de bienes y servicios. </i> Artículo PDF',
       link:
-        '. https://www.sic.gov.co/sites/default/files/files/Proteccion_Competencia/Buenas-practicas-para-la-contratacion-bienes-y-servicios.pdf',
+        'https://www.sic.gov.co/sites/default/files/files/Proteccion_Competencia/Buenas-practicas-para-la-contratacion-bienes-y-servicios.pdf',
     },
     {
       referencia:
