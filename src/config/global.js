@@ -124,29 +124,28 @@ export default {
   complementario: [
     {
       tema: 'Cotización',
-      referencia:
-        'Montes, J. (2022). <i>Cotización </i>. Economipedia: https://economipedia.com/definiciones/cotizacion.html',
+      referencia: 'Montes, J. (2022). <i>Cotización </i>.',
       tipo: 'Sitio web',
       link: 'https://economipedia.com/definiciones/cotizacion.html',
     },
     {
       tema: 'Certificación de proveedores',
       referencia:
-        'González, Y. (2017) <i> Certificación gestión de eventos sociales empresariales </i> [video]. YouTube. https://www.youtube.com/watch?v=9CP4sPFzMdg',
+        'González, Y. (2017) <i> Certificación gestión de eventos sociales empresariales </i> [video].',
       tipo: 'Video',
       link: 'http://www.youtube.com/watch?v=9CP4sPFzMdg',
     },
     {
       tema: 'Desarrollo sostenible',
       referencia:
-        'Foundation, E. M. (s.f.). Rethinking Progress [video]. YouTube. Economía circular y producción sostenible. https://www.youtube.com/watch?v=RstFV_n6wRg',
+        'Foundation, E. M. (s.f.). Rethinking Progress [video]. YouTube. Economía circular y producción sostenible. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=RstFV_n6wRg',
     },
     {
       tema: 'Desarrollo sostenible',
       referencia:
-        'Universidad Rey Juan Carlos. (2017). <i> Guía de buenas prácticas para la realización de eventos sostenibles en la URJC. </i> (Archivo PDF). https://www.urjc.es/images/EstudiarURJC/vida_universitaria/compromiso_social/sostenibilidad/guia-de-buenas-practicas-para-la-realizacion-de-eventos-sostenibles-en-la-urjc.pdf',
+        'Universidad Rey Juan Carlos. (2017). <i> Guía de buenas prácticas para la realización de eventos sostenibles en la URJC. </i>',
       tipo: 'PDF',
       link:
         'https://www.urjc.es/images/EstudiarURJC/vida_universitaria/compromiso_social/sostenibilidad/guia-de-buenas-practicas-para-la-realizacion-de-eventos-sostenibles-en-la-urjc.pdf',
@@ -154,7 +153,7 @@ export default {
     {
       tema: 'Buenas prácticas en la selección de proveedores',
       referencia:
-        'AERCE. Agencia de Eventos Españoles Asociadas AEVEA. (2018). <i> Guía técnica de buenas prácticas en la compra de servicios de eventos. </i> (Archivo PDF). https://aevea.es/add/modelos-de-trabajo/Guia-Buenas-Practicas-Compras-de-Eventos-2018.pdf',
+        'AERCE. Agencia de Eventos Españoles Asociadas AEVEA. (2018). <i> Guía técnica de buenas prácticas en la compra de servicios de eventos. </i>',
       tipo: 'PDF',
       link:
         'https://aevea.es/add/modelos-de-trabajo/Guia-Buenas-Practicas-Compras-de-Eventos-2018.pdf',
