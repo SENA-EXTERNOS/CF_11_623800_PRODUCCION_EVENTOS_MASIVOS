@@ -11,16 +11,17 @@
         img(src="@/assets/curso/temas/t2/img-3.png")
       .col-lg-8.col-sm-6
         .cajon-b.color-primario.p-3.mb-0
-          p.mb-0 Una vez se cuenta con varias cotizaciones (lo ideal es contar con mínimo 3 en cada proceso), se debe analizar la opción más acertada a través de un cuadro comparativo. Como su nombre lo indica, estos cuadros ofrecen una representación visual de varias opciones que pueden compararse entre sí. Puede tener pros, contras y características claves que describan las diferencias vitales entre varias opciones.
-          | Dado que no hay una regla general con los gráficos de comparación, estos pueden representar características tanto cuantitativas como cualitativas. En general, son fáciles de hacer y pueden ayudar en la toma de decisiones basadas en datos. 
+          p.mb-0 Una vez se cuenta con varias cotizaciones (lo ideal es contar con mínimo 3 en cada proceso), se debe analizar la opción más acertada a través de un cuadro comparativo. Como su nombre lo indica, estos cuadros ofrecen una representación visual de varias opciones que pueden compararse entre sí, ya que  permiten organizar la información, facilitando la identificación de características similares y diferentes en los conceptos. Puede tener pros, contras y características claves que describan las diferencias vitales entre varias opciones.
+
         .cajon-b.color-secundario.p-3.mb-4
-          p.mb-0 Los cuadros comparativos sirven para organizar la información, facilitando la identificación de características similares y diferentes en los conceptos. Por eso son útiles en la adquisición de conocimientos y la memorización de contenidos.
+          p.mb-0 Dado que no hay una regla general con los gráficos de comparación, estos pueden representar características tanto cuantitativas como cualitativas. En general, son fáciles de hacer y pueden ayudar en la toma de decisiones basadas en datos.
+
     p Observar los siguientes ejemplos:
     .tarjeta.color-adicional-3.p-4.mb-5
       SlyderA(tipo="b")
         .row.justify-content-center
           .col-md-5.mb-0.mb-md-0
-            h4 Ejemplo 1:
+            h4 Ejemplo 1
             p Un estudiante debe realizar un examen sobre estudios sociales, que girará en torno a los países de América del Sur. Mientras estudia, decide crear un cuadro comparativo.
             p En las columnas pone los nombres de los países: Colombia, Brasil y Argentina. Debajo de la columna correspondiente a cada nación empieza a escribir diferentes datos, uno por fila, para poder comparar: 
             p Capital: Bogotá D.C. / Brasilia / Buenos Aires.
@@ -31,8 +32,8 @@
               img(src='@/assets/curso/temas/t2/img_5.png', alt='img5')
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0
-            h4 Ejemplo 2:
-            p Por su parte, una joven que está planificando sus vacaciones decide elaborar un cuadro comparativo para definir qué hotel le conviene más: 
+            h4 Ejemplo 2
+            p Una pareja está organizando un viaje por su aniversario, así que deciden elaborar un cuadro comparativo para definir qué hotel les conviene más:  
             p Hotel Estelar / Hotel Sonesta.
             p 4 estrellas / 3 estrellas.
             p Incluye desayuno / Incluye desayuno y cena.
@@ -117,7 +118,7 @@
           p Ya se ha mencionado el concepto, utilidad, ventajas y desventajas de esta herramienta, ahora es momento de conocer los aspectos que se deben tener en cuenta al momento de elaborar un cuadro comparativo. Al realizar una tabla o gráfico de este tipo, es importante tener una idea clara de lo que se desea plasmar o identificar, ya que esto permite reconocer las variables y su correcta organización para optimizar todo el proceso.
       .col-lg-5.col-sm-6
         img(src="@/assets/curso/temas/t2/img-11.png")
-    p.mt-3 Aspectos para tener en cuenta en su elaboración.
+    p.mt-3 Aspectos para tener en cuenta en su elaboración:
     .row.justify-content-center.mt-5
       .col-lg-10.col-sm-12
         img(src="@/assets/curso/temas/t2/img-12.png")

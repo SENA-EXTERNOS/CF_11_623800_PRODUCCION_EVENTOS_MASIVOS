@@ -31,9 +31,9 @@
       .tarjeta.color-acento-botones1.p-3(x="77%" y="33%" numero="6")
         p Proporcionar una mayor comunicación y un mejor intercambio de información. 
       .tarjeta.color-acento-botones1.p-3(x="81%" y="46%" numero="7")
-        p Facilitar el alcance de los objetivos en mejora en la empresa, a través de la colaboración.
-      .tarjeta.color-acento-botones1.p-3(x="86%" y="65%" numero="8")
         p Ayudar a la organización para servir mejor a sus clientes.
+      .tarjeta.color-acento-botones1.p-3(x="86%" y="65%" numero="8")
+        p Facilitar el alcance de los objetivos en mejora de la empresa, a través de la colaboración.
     .row
       .col-12
         .cajon-b.color-secundario3.p-3.mb-3
@@ -51,7 +51,7 @@
       .col-lg-5.col-sm-6
         img(src="@/assets/curso/temas/t4/img-5.png")
       .col-lg-6.col-sm-6
-        p La mayoría de estos beneficios se pueden conseguir estableciendo objetivos mutuos en las áreas de control de calidad total y control estadístico del Proceso SPC, contando con menos reprocesos, desechos, errores de especificación, dibujo, recepción y facturación. Con este también se puede disminuir el coste total del producto.
+        p La mayoría de estos beneficios se pueden conseguir estableciendo objetivos mutuos en las áreas de control de calidad total y control estadístico del proceso SPC, contando con menos reprocesos, desechos, errores de especificación, dibujo, recepción y facturación. Con este también se puede disminuir el coste total del producto.
         p.color.p-4 Con la garantía de cero defectos se reducen los inventarios, el <i>stock</i> de seguridad, y se puede eliminar la inspección, logrando tamaños de lotes más pequeños y entregas con mayor frecuencia, además de una configuración reducida y un papeleo administrativo racionalizado.
     .row.justify-content-center.mt-2
       p.text-center Actividades necesarias para implementar una certificación de proveedores:

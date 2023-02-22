@@ -9,7 +9,8 @@
     .row.justify-content-center.mt-2
       .col-lg-8.col-sm-4
         .cajon-b.contenido.p-3.mb-5
-          p.mb-0 Otro documento esencial en la selección de proveedores es la oferta comercial. Esta es entregada de vendedor a cliente, realizando la presentación general de la empresa, en la que se resalta la información relevante del producto mientras se definen las características y condiciones (en caso de que aplique) que tiene la compañía para sus ventas.
+          p.mb-0 Otro factor esencial en la selección de proveedores es la oferta comercial. Se entrega un documento de vendedor al cliente, realizando la presentación general de la empresa, en la que se resalta la información relevante del producto, mientras se definen las características y condiciones (en caso de que aplique) que tiene la compañía para sus ventas.
+
           p.mt-3 Es importante aclarar que las ofertas comerciales son utilizadas principalmente en ventas mayoristas, empresariales e institucionales, ya que en ventas al cliente final o al detal el proceso es más informal, debido a que el vendedor presenta su portafolio esperando una aceptación rápida por parte del cliente y no requiere mediar una propuesta.
       .col-lg-4.col-sm-6
         img(src='@/assets/curso/temas/t3/img-1.png', alt='img1')
@@ -40,8 +41,9 @@
               .col-lg-4.col-sm-6
                 img(src='@/assets/curso/temas/t3/img-3.png', alt='img3')
               .col-lg-8.col-sm-6
-                p Uno de los asuntos de mayor relevancia es la parte visual. Presentar una propuesta de servicios en una carpeta con el logotipo de la empresa, al igual que tener un membrete, marcará la diferencia, y así el cliente sabrá que está tratando con un equipo profesional.
-                p Además, todos los archivos adjuntos, ya sean gráficos, imágenes u hojas de cálculo, deben tener una buena resolución y ser legibles.
+                p Uno de los asuntos de mayor relevancia es la parte visual. Presentar una propuesta de servicios independiente si se realiza física o digital, debe contar con la imagen de la compañía, es decir, contar con logotipo así como membrete y demás piezas gráficas características, pues esto marcará la diferencia evidenciando se está tratando con un  equipo profesional.
+
+                p Además, todos los archivos ya sean gráficos, imágenes, hojas de cálculo, etc deben tener una buena resolución y ser legibles.
           .tarjeta.color-acento-primario--borde.p-4(titulo="Índice de contenidos")
             h4 Índice de contenidos
             .row.justify-content-center.mt-2
@@ -79,7 +81,7 @@
               .col-lg-4.col-sm-6 
                 img(src='@/assets/curso/temas/t3/img-8.png', alt='img8')
               .col-lg-8.col-sm-6
-                p Mostrar al cliente que tiene diferentes opciones para cerrar el trato con la empresa puede ser atractivo, y este se sentirá libre de elegir la que más le convenga. Este tipo de tácticas puede ayudar a ofrecer productos y servicios de diferentes gamas, demostrando así la capacidad de cubrir cualquier escenario.
+                p Mostrar al cliente que tiene diferentes opciones para cerrar el trato con la empresa puede ser atractivo, y lo hará sentir libre de elegir la que más le convenga. Este tipo de tácticas puede ayudar a ofrecer productos y servicios de diferentes gamas, demostrando así la capacidad de cubrir cualquier escenario.
     .row.justify-content-center
       .col-lg-7.col-sm-12 
         .tarjeta-avatar-b.mb-5

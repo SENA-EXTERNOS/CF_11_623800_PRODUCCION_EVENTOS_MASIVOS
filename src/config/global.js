@@ -138,7 +138,7 @@ export default {
     {
       tema: 'Desarrollo sostenible',
       referencia:
-        'Foundation, E. M. (s.f.). Rethinking Progress [video]. YouTube. Economía circular y producción sostenible. ',
+        'Foundation, E. M. (s.f.). <i>Rethinking Progress</i> [video]. YouTube. Economía circular y producción sostenible.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=RstFV_n6wRg',
     },
@@ -206,7 +206,7 @@ export default {
         'es cualquier requerimiento que llega a la empresa de manera formal.',
     },
     {
-      termino: 'Sostenible:',
+      termino: 'Sostenible',
       significado:
         'sistemas biológicos que se mantienen productivos con el transcurso del tiempo, se refiere al equilibrio de una especie.',
     },

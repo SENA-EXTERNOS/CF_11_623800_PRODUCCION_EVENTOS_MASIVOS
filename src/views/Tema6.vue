@@ -10,7 +10,8 @@
       .col-lg-3.col-sm-5
         img(src="@/assets/curso/temas/t6/img-1.png")
       .col-lg-9
-        p Mantener una buena relación con los clientes es esencial en cada etapa de la selección, incluso después de una venta. Ofrecer un servicio posventa demuestra valor a sus clientes, generando una posible recompra. Además, un cliente satisfecho puede actuar como promotor de los productos y servicios, aumentando así la visibilidad de la empresa. Por lo tanto, ofrecer un buen servicio posventa es tan importante como conseguir otros nuevos clientes.
+        p Mantener una buena relación con los clientes es esencial en cada etapa de la selección, incluso después de una venta. Ofrecer un servicio posventa demuestra valor a sus clientes, generando una posible recompra. Además, un cliente satisfecho puede actuar como promotor de los productos y servicios, aumentando así la visibilidad de la empresa. Por lo tanto, ofrecer un buen servicio posventa es tan importante como conseguir nuevos clientes.
+        
         p Existen diversas métricas que deben ser monitoreadas por los empresarios, y una de ellas es la recompra, es decir, el número de personas que han adquirido un producto o servicio y lo hacen de nuevo.
     .row.mt-2
       .col-lg-7.col-sm-6

@@ -75,7 +75,8 @@
       .col-10
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto.color_2
-            p.mb-0 Para ver un formato sencillo, se recomienda descargar el <b>Anexo 1: Modelo Cotización Simple</b>. Una vez se tenga claro cómo puede verse el formato, es necesario observar que toda cotización deberá presentar información clara y precisa sobre los ítems que la conforman, ya que cada uno de estos tiene un objetivo de comunicación específico.
+            p.mb-0 Para ver un formato sencillo, se recomienda descargar el Anexo 1: Modelo Cotización Simple. Es importante  observar en dicho formato, que toda cotización deberá presentar información clara y precisa sobre los ítems que la conforman, ya que cada uno de estos tiene un objetivo de comunicación específico.
+            
             .col-md.col-lg-6
     .row.mt-5.justify-content-center
       .col-lg-8.col-sm-12
@@ -109,7 +110,10 @@
               p Es la especificación de los productos y/o servicios que se están cotizando, esto debe escribirse de forma breve y bastante clara. 
           .row(titulo="Valor total")
             .col-md-12.mb-4.mb-md-0
-              p Este componente es determinante, pues la base del objetivo de una cotización es informar al cliente cuánto cuesta el producto o servicio solicitado. Podría ser una porción total o parcial, según corresponda al proceso del servicio. El documento debe ser descriptivo, ordenado y coherente, indicando, adicionalmente, la moneda con la cual se le da valor.
+              p Este componente es determinante, pues la base del objetivo de una cotización es informar al cliente cuánto cuesta el producto o servicio solicitado. 
+
+              p El documento debe ser descriptivo, ordenado y coherente, indicando, adicionalmente, la moneda con la cual se le da valor.
+
           .row(titulo="Métodos o procedimientos de pago")
             .col-md-12.mb-4.mb-md-0
               p Es fundamental poner en claro los procedimientos de pago requeridos, o si tiene alguna restricción. Además, se deben especificar ciertas condiciones, por ejemplo impuestos, descuentos particulares por el pago total, posibilidades de división del costo total en mensualidades, etcétera.  
