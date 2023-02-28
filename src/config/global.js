@@ -234,7 +234,7 @@ export default {
     },
     {
       referencia:
-        'PDF Superintendencia de Industria y Comercio (SIC). (2022). <i> Manual Buenas prácticas en la contratación de bienes y servicios. </i> Artículo PDF',
+        'Superintendencia de Industria y Comercio (SIC). (2022). <i> Manual Buenas prácticas en la contratación de bienes y servicios. </i> Artículo PDF',
       link:
         'https://www.sic.gov.co/sites/default/files/files/Proteccion_Competencia/Buenas-practicas-para-la-contratacion-bienes-y-servicios.pdf',
     },
