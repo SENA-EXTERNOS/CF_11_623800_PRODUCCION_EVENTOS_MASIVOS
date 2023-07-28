@@ -225,11 +225,6 @@ export default {
     },
     {
       referencia:
-        'Artículo ONU. (2017). ONU <i> Medio ambiente, abogando el consumo y la producción sostenible.</i> Organización de las Naciones Unidas.',
-      link: '',
-    },
-    {
-      referencia:
         'Sitio web Real academia española: <i> Diccionario de la lengua española, </i> 23.ª ed., [versión 23.5 en línea]. [9 septiembre 2022]. ',
       link: 'https://dle.rae.es',
     },
