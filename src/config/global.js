@@ -214,6 +214,11 @@ export default {
   referencias: [
     {
       referencia:
+        'Artículo ONU. (2017). ONU <i>Medio ambiente, abogando el consumo y la producción sostenible</i>. Organización de las Naciones Unidas.',
+      link: 'https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/',
+    },    
+    {
+      referencia:
         'Libro Fidalgo, E. & Ventura, J. (2018). <i> Fundamentos de administración de empresas </i>. Ediciones Pirámide.',
       link: '',
     },
